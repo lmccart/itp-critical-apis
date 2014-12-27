@@ -13,20 +13,21 @@ Central to the class is the idea that APIs are by nature future-oriented, provid
 
 ### Week 1-3: Protocol and control
 * Technical
-  * REST
+  * JS basics
+  * REST, JSON
   * Server side / OAuth
 * Discussion
   * Intro
 * Assignment 1 (use an API) - due week 3
 
 ### Weeks 4-5: Response and freedom
-Technical
-Scraping
-Serving JSON
-Discussion
-Open web / access
-Hacking solutions
-Assignment 2 (create an API) - due week 5
+* Technical
+  * Serving JSON
+  * Scraping
+* Discussion
+  * Open web / access
+  * Hacking solutions
+* Assignment 2 (create an API) - due week 5
 
 ### Weeks 6-7: Larger social dynamics
 * Technical
