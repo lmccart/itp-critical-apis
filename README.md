@@ -11,7 +11,7 @@ Central to the class is the idea that APIs are by nature future-oriented, provid
 
 # Syllabus
 
-### Week 1-3: Control, data, and anxiety
+### Week 1-3: Protocol and control
 * Technical
   * REST
   * Server side / OAuth
