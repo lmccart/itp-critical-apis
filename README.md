@@ -17,6 +17,7 @@ Central to the class is the idea that APIs are by nature future-oriented, provid
   * REST, JSON
   * Server side / OAuth
 * Discussion
+  * History of APIs 
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol)
   * Ivan Illich, [Tools for Conviviality](http://eekim.com/ba/bookclub/illich/tools.pdf)
