@@ -11,29 +11,66 @@ Central to the class is the idea that APIs are by nature future-oriented, provid
 
 # Syllabus
 
-### Week 1-3: Protocol and control
-* Technical
-  * JS basics
-  * REST, JSON
-  * Server side / OAuth
+## Part 1: Protocol and control
+
+### Week 1 (1/28)
+* Intro and syllabus
+* Part 1 intro / survey
+* Technical workshop
+* **Assignment 1 (DUE 2/11)**
+
+### Week 2 (2/4)
 * Discussion
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol)
   * Ivan Illich, [Tools for Conviviality](http://eekim.com/ba/bookclub/illich/tools.pdf)
-* Assignment 1 (use an API) - due week 3
+* Technical workshop
+  * JS basics
+  * REST, JSON
+  * Server side / OAuth
 
-### Weeks 4-5: Response and freedom
-* Technical
+
+### Week 3 (2/11)
+* Review Assignment 1
+* Part 2 intro / survey
+* **Assignment 2 (DUE 2/11)**
+
+## Part 2: Response and freedom
+
+### Week 4 (2/18)
+* Technical workshop
   * Serving JSON
   * Scraping
+    * [node.js]()
+    * [kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
 * Discussion
   * Open web / access
   * Hacking solutions
-* Assignment 2 (create an API) - due week 5
+  
+### Week 5 (2/25)
+* Review Assignment 2
+* Part 3 intro / survey
+* **Final Project (DUE 3/11)** 
 
-### Weeks 6-7: Larger social dynamics
-* Technical
+
+## Part 3: Larger social dynamics
+
+### Week 6 (3/4)
+* Technical workshop
 * Discussion
   * Decentralization
   * Sharing economy
-* Final project (anything) - due week 7
+
+
+### Week 7 (3/11)
+* Review Final Projects
+* Wrap-up
+
+
+# Resources
+
+* [APIs: Strategy Guide (O'Reilly)](http://www.amazon.com/APIs-Strategy-Guide-Daniel-Jacobson/dp/1449308929/)
+* [RESTful Web APIs (O'Reilly)](http://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063)
+* [codecademy APIs tutorials](http://www.codecademy.com/learn)
+* [lynda.com: Effective Design of RESTful APIs](http://www.lynda.com/API-tutorials/Effective-Design-RESTful-APIs/166777-2.html)
+* [lynda.com: Up and Running with Cloud Service APIs](http://www.lynda.com/API-tutorials/Up-Running-Cloud-Service-APIs/151707-2.html)
