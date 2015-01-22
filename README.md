@@ -76,6 +76,7 @@ There will be three projects during the class. The first two will have more spec
   * Hacking solutions
   
 ### Week 5 (2/25, 4/22)
+* **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)**
 * Review Project 2
 * Part 3 intro / survey
 * **Final Project (DUE 3/11)** 
