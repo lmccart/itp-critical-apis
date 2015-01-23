@@ -86,6 +86,7 @@ There will be three projects during the class. The first two will have more spec
 
 ### Week 6 (3/4, 4/29)
 * Technical workshop
+  * IoT? Hardware/device APIs. 
 * Discussion
   * Decentralization
   * Sharing economy
