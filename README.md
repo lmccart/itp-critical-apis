@@ -40,7 +40,7 @@ There will be three projects during the class. The first two will have more spec
 
 ## Part 1: Protocol and control
 
-### Week 1 (1/28)
+### Week 1 (1/28, 3/25)
 * Intro and syllabus
 * History of APIs
 * Part 1 intro / survey
@@ -53,7 +53,7 @@ There will be three projects during the class. The first two will have more spec
   * [Temboo](https://www.temboo.com/)
 * **Project 1 (DUE 2/11)**
 
-### Week 2 (2/4)
+### Week 2 (2/4, 4/1)
 * Discussion
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol)
@@ -64,14 +64,14 @@ There will be three projects during the class. The first two will have more spec
   * Server side / OAuth
 
 
-### Week 3 (2/11)
+### Week 3 (2/11, 4/8)
 * Review Project 1
 * Part 2 intro / survey
 * **Project 2 (DUE 2/11)**
 
 ## Part 2: Response and freedom
 
-### Week 4 (2/18)
+### Week 4 (2/18, 4/15)
 * Technical workshop
   * Serving JSON
   * Scraping
@@ -81,7 +81,8 @@ There will be three projects during the class. The first two will have more spec
   * Open web / access
   * Hacking solutions
   
-### Week 5 (2/25)
+### Week 5 (2/25, 4/22)
+* **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)**
 * Review Project 2
 * Part 3 intro / survey
 * **Final Project (DUE 3/11)** 
@@ -89,14 +90,15 @@ There will be three projects during the class. The first two will have more spec
 
 ## Part 3: Networks
 
-### Week 6 (3/4)
+### Week 6 (3/4, 4/29)
 * Technical workshop
+  * IoT? Hardware/device APIs. 
 * Discussion
   * Decentralization
   * Sharing economy
 
 
-### Week 7 (3/11)
+### Week 7 (3/11, 5/6)
 * Review Final Projects
 * Wrap-up
 
