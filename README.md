@@ -78,8 +78,15 @@ There will be three projects during the class. The first two will have more spec
     * [node.js]()
     * [kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
 * Discussion
-  * Open web / access
-  * Hacking solutions
+  * Open web / access, tactical media, exploits, hacking
+  * Critical Art Engineering, [Electronic Civil Disobedience]()
+  * Manifestos
+    * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
+    * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
+    * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
+  * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink
+  * [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway, Eugene Thacker
+  
   
 ### Week 5 (2/25, 4/22)
 * **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)**
