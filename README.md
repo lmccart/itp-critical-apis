@@ -42,13 +42,19 @@ There will be three projects during the class. The first two will have more spec
 
 ### Week 1 (1/28)
 * Intro and syllabus
+* History of APIs
 * Part 1 intro / survey
-* Technical workshop
+* Technical: API shortcuts and alternatives
+  * [IFTTT](https://ifttt.com/)
+  * [Zapier](https://zapier.com)
+  * [import.io](https://import.io/)
+  * [itDuzzit](http://cloud.itduzzit.com/)
+  * [Yahoo pipes](https://pipes.yahoo.com/pipes/)
+  * [Temboo](https://www.temboo.com/)
 * **Project 1 (DUE 2/11)**
 
 ### Week 2 (2/4)
 * Discussion
-  * History of APIs 
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol)
   * Ivan Illich, [Tools for Conviviality](http://eekim.com/ba/bookclub/illich/tools.pdf)
@@ -81,7 +87,7 @@ There will be three projects during the class. The first two will have more spec
 * **Final Project (DUE 3/11)** 
 
 
-## Part 3: Larger social dynamics
+## Part 3: Networks
 
 ### Week 6 (3/4)
 * Technical workshop
