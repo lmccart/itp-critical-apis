@@ -51,7 +51,7 @@ There will be three projects during the class. The first two will have more spec
   * [itDuzzit](http://cloud.itduzzit.com/)
   * [Yahoo pipes](https://pipes.yahoo.com/pipes/)
   * [Temboo](https://www.temboo.com/)
-* **Project 1 (DUE 2/11)**
+* **[Project 1 (DUE 2/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#project-1-due-211)**
 
 ### Week 2 (2/4, 4/1)
 * Discussion
@@ -67,7 +67,7 @@ There will be three projects during the class. The first two will have more spec
 ### Week 3 (2/11, 4/8)
 * Review Project 1
 * Part 2 intro / survey
-* **Project 2 (DUE 2/11)**
+* **[Project 2 (DUE 2/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#project-2-due-225)**
 
 ## Part 2: Response and freedom
 
@@ -92,7 +92,7 @@ There will be three projects during the class. The first two will have more spec
 * **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)**
 * Review Project 2
 * Part 3 intro / survey
-* **Final Project (DUE 3/11)** 
+* **[Final Project (DUE 3/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311)** 
 
 
 ## Part 3: Networks
