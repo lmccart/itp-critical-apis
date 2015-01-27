@@ -58,6 +58,7 @@ There will be three projects during the class. The first two will have more spec
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol)
   * Ivan Illich, [Tools for Conviviality](http://eekim.com/ba/bookclub/illich/tools.pdf)
+  * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 * Technical workshop
   * JS basics
   * REST, JSON
@@ -77,8 +78,7 @@ There will be three projects during the class. The first two will have more spec
   * Scraping
     * [node.js]()
     * [kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
-* Discussion
-  * Open web / access, tactical media, exploits, hacking
+* **Discussion: Open web / access, tactical media, exploits, hacking**
   * Critical Art Engineering, [Electronic Civil Disobedience]()
   * Manifestos
     * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
@@ -99,10 +99,13 @@ There will be three projects during the class. The first two will have more spec
 
 ### Week 6 (3/4, 4/29)
 * Technical workshop
-  * IoT? Hardware/device APIs. 
-* Discussion
-  * Decentralization
-  * Sharing economy
+  * Hardware / device APIs
+  * Arduino Yun
+* **Discussion: The Internet of Things and People**
+  * [A Design Methodology for Deconstructing Networks](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp33to38-BruckerCohen-ADesignMethodologyForDeconstructingNetworks.pdf), Jonah Brucker-Cohen
+  * [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle
+  * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski
+  * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling
 
 
 ### Week 7 (3/11, 5/6)
@@ -112,8 +115,23 @@ There will be three projects during the class. The first two will have more spec
 
 # Resources
 
+### JS basics
+
+* [Learn-JS.org](http://www.learn-js.org/) - especially the sections on [functions](http://www.learn-js.org/en/Functions), [objects](http://www.learn-js.org/en/Objects), and [callbacks](http://www.learn-js.org/en/Callbacks)
+* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+
+### APIs
 * [APIs: Strategy Guide (O'Reilly)](http://www.amazon.com/APIs-Strategy-Guide-Daniel-Jacobson/dp/1449308929/)
 * [RESTful Web APIs (O'Reilly)](http://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063)
 * [codecademy APIs tutorials](http://www.codecademy.com/learn)
 * [lynda.com: Effective Design of RESTful APIs](http://www.lynda.com/API-tutorials/Effective-Design-RESTful-APIs/166777-2.html)
 * [lynda.com: Up and Running with Cloud Service APIs](http://www.lynda.com/API-tutorials/Up-Running-Cloud-Service-APIs/151707-2.html)
+
+
+### Tools
+* [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
+* [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands) - We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. 
+* Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
+* Browser debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
+* Mobile debugging [jsconsole.com](http://jsconsole.com)
+* Sharing code snippets (useful for asking questions): [gist.github.com](http://gist.github.com)
