@@ -54,7 +54,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 ### Week 1 (1/28, 3/25)
 * Intro and syllabus
 * History of APIs
-  * [salesforce.com](images/salesforce-2000.png) (2000) 
+  * [salesforce.com](https://raw.githubusercontent.com/lmccart/itp-critical-apis/master/images/salesforce-2000.png) (2000) 
   * [ebay](http://kinlane-productions.s3.amazonaws.com/ebay/ebay-developer-program-history.png) (2000)
   * [AWS](http://kinlane-productions.s3.amazonaws.com/amazon/Amazon-Web-Services-News-Release.png) (2002)
   * del.icio.us (2003)
