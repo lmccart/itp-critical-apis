@@ -85,10 +85,10 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 ## Part 2: Response and freedom
 
 ### Week 4 (2/18, 4/15)
-* **Guest lecture / workshop [Sam Slover](http://samslover.com/)**
-* Technical workshop
-  * Serving JSON
-  * Scraping
+* **Guest workshop [Sam Slover](http://samslover.com/)**
+  * Create your own API with node.js.
+  * Model and collect data.
+  * Create and serve-up API endpoints in a RESTful style (responding with JSON).
 * **Discussion: Open web / access, tactical media, exploits, hacking**
   * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
   * Manifestos
