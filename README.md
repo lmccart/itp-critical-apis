@@ -89,7 +89,7 @@ There will be three projects during the class. The first two will have more spec
   
   
 ### Week 5 (2/25, 4/22)
-* **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)**
+* **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)** (2/25)
 * Review Project 2
 * Part 3 intro / survey
 * **[Final Project (DUE 3/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311)** 
