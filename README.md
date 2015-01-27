@@ -54,20 +54,34 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 ### Week 1 (1/28, 3/25)
 * Intro and syllabus
 * History of APIs
+  * [salesforce.com](images/salesforce-2000.jpg) (2000) 
+  * [ebay](http://kinlane-productions.s3.amazonaws.com/ebay/ebay-developer-program-history.png) (2000)
+  * [AWS](http://kinlane-productions.s3.amazonaws.com/amazon/Amazon-Web-Services-News-Release.png) (2002)
+  * del.icio.us (2003)
+  * flickr (2004)
+  * [Facebook API](https://www.facebook.com/notes/facebook/facebook-development-platform-launches/2207512130) (2006)
+  * [Twitter API](https://blog.twitter.com/2006/introducing-twitter-api) (2006) 
+  * [Google Maps API](http://googleblog.blogspot.com/2005/06/world-is-your-javascript-enabled_29.html) (2006)
+  * Amazon [S3](http://aws.amazon.com/about-aws/whats-new/2006/03/13/announcing-amazon-s3---simple-storage-service/) and [EC2](http://aws.amazon.com/about-aws/whats-new/2006/08/24/announcing-amazon-elastic-compute-cloud-amazon-ec2---beta/) (2006)
+  * [programmableweb.com](http://www.programmableweb.com/news/web-platform/2005/08/20) (2005)
+  * [mashery.com](http://techcrunch.com/2006/11/06/mashery-api-management-service-is-open-for-business/) (2006)
+  * [twilio](http://dovetailsoftware.com/wp-content/uploads/MTE5Ni1pbWFnZV8yMjgwQjE1Ni5wbmc=.png) (2007)
+  * [foursquare](http://venturebeat.com/2009/03/10/dodgeball-founder-pegs-google-in-the-face-with-foursquare/) (2009)
+  * Instagram [unofficial API](http://www.programmableweb.com/news/full-featured-unpublished-instagram-api/2010/12/15) (2010) and [official API](http://blog.instagram.com/post/8756150468/a-real-time-api-for-next-generation-apps) (2011)
 * Part 1 intro / survey
-* Technical: API shortcuts and alternatives
+* Technical workshop: API shortcuts and alternatives
   * [IFTTT](https://ifttt.com/)
   * [Zapier](https://zapier.com)
   * [import.io](https://import.io/)
   * [itDuzzit](http://cloud.itduzzit.com/)
   * [Yahoo pipes](https://pipes.yahoo.com/pipes/)
   * [Temboo](https://www.temboo.com/)
-  * [kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
+  * [Kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
 * **[Project 1 (DUE 2/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#project-1-due-211)**
 
 ### Week 2 (2/4, 4/1)
 * Discussion
-  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-full-timeeeling-the-case-of-the-twitter-api)
+  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol)
   * Ivan Illich, [Tools for Conviviality](http://eekim.com/ba/bookclub/illich/tools.pdf)
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
@@ -80,6 +94,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 ### Week 3 (2/11, 4/8)
 * Review Project 1
 * Part 2 intro / survey
+* [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
 * **[Project 2 (DUE 2/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#project-2-due-225)**
 
 ## Part 2: Response and freedom
@@ -169,6 +184,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * Sharing code snippets (useful for asking questions): [gist.github.com](http://gist.github.com)
 
 ### APIs
+* [ProgrammableWeb](http://www.programmableweb.com/)
 * http://en.wikipedia.org/wiki/List_of_open_APIs
 * https://gist.github.com/afeld/4952991
 * OpenWeatherMap - http://openweathermap.org/API
