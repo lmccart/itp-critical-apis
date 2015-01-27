@@ -66,7 +66,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 
 ### Week 2 (2/4, 4/1)
 * Discussion
-  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
+  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-full-timeeeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol)
   * Ivan Illich, [Tools for Conviviality](http://eekim.com/ba/bookclub/illich/tools.pdf)
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
@@ -90,7 +90,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
     * [node.js]()
     * [kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
 * **Discussion: Open web / access, tactical media, exploits, hacking**
-  * Critical Art Engineering, [Electronic Civil Disobedience]()
+  * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
   * Manifestos
     * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
