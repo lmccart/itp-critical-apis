@@ -27,7 +27,16 @@ The class will be a mix of seminar and studio:
 
 ### Discussion
 
-There will be a number of readings for this course. Each reading will be prepared by one pair of students, who will read in depth and present and lead a discussion around the ideas in it. On the days you are not presenting, you do not need to read all of each reading, but you need to read/scan enough to be able to participate in the class discussion.
+There will be a number of readings for this course. Each reading will be prepared by one pair of students, who will read in depth and present and lead a discussion around the ideas in it. The goal is not to just give a report, but to engage the class in an interesting and provocative discussion. Things to include in your planning / presentation include:
+
+* Summary of main ideas.
+* Links, images, or video of projects / products / things referenced in the reading.
+* Other relevant things you've read, heard, or seen.
+* Personal experiences.
+* Questions for the class related to the reading.
+* Questions for the class that relate all three of the readings together.
+
+On the days you are not presenting, you do not need to read all of each reading, but you need to read/scan enough to be able to participate in the class discussion.
 
 Sign up for the reading you'd like to present on by putting your name next to it in the syllabus.
 
