@@ -62,6 +62,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * [itDuzzit](http://cloud.itduzzit.com/)
   * [Yahoo pipes](https://pipes.yahoo.com/pipes/)
   * [Temboo](https://www.temboo.com/)
+  * [kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
 * **[Project 1 (DUE 2/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#project-1-due-211)**
 
 ### Week 2 (2/4, 4/1)
@@ -84,11 +85,10 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 ## Part 2: Response and freedom
 
 ### Week 4 (2/18, 4/15)
+* **Guest lecture / workshop [Sam Slover](http://samslover.com/)**
 * Technical workshop
   * Serving JSON
   * Scraping
-    * [node.js]()
-    * [kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
 * **Discussion: Open web / access, tactical media, exploits, hacking**
   * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
   * Manifestos
