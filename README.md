@@ -35,6 +35,8 @@ Sign up for the reading you'd like to present on by putting your name next to it
 
 There will be three projects during the class. The first two will have more specific guidelines, and the final project will be open. For the first two projects, you may actually implement something, or you may present a conceptual mock-up of an idea. The final project must be something you actually create, not just a concept. It may expand on one of the earlier projects.
 
+The technical workshops in the class will use JavaScript. You are welcome to use any language or tool for your work.
+
 
 # Syllabus
 
@@ -116,9 +118,23 @@ There will be three projects during the class. The first two will have more spec
 # Resources
 
 ### JS basics
-
+* [CodeAcademy: JavaScript](http://www.codecademy.com/tracks/javascript)
+* [How to learn JavaScript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+* [JavaScript the right way](http://www.jstherightway.org/)
+* [Code School](https://www.codeschool.com/paths/javascript)
+* [JavaScript garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [A re-introduction to JS by Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [JavaScript 101 from JQuery](https://learn.jquery.com/javascript-101/)
+* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do)
+* [Eloquent JavaScript](http://eloquentjavascript.net/contents.html), Marijn Haverbeke
+* [Beginning JavaScript](http://www.amazon.com/Beginning-JavaScript-Paul-Wilton/dp/0470525932), Paul Wilton and Jeremy McPeak
 * [Learn-JS.org](http://www.learn-js.org/) - especially the sections on [functions](http://www.learn-js.org/en/Functions), [objects](http://www.learn-js.org/en/Objects), and [callbacks](http://www.learn-js.org/en/Callbacks)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+* http://www.nyu.edu/lynda - lots of great tutorials here. Log in with your normal nyu net-id/password for full access.
+* [CodeAcademy](http://www.codecademy.com/)
+* [Flat Iron School](http://prework.flatironschool.com/web-development/)
+* [HTML & CSS book](http://www.htmlandcssbook.com/)
+* [JavaScript book](http://www.javascriptbook.com/)
 
 ### APIs
 * [APIs: Strategy Guide (O'Reilly)](http://www.amazon.com/APIs-Strategy-Guide-Daniel-Jacobson/dp/1449308929/)
@@ -127,8 +143,15 @@ There will be three projects during the class. The first two will have more spec
 * [lynda.com: Effective Design of RESTful APIs](http://www.lynda.com/API-tutorials/Effective-Design-RESTful-APIs/166777-2.html)
 * [lynda.com: Up and Running with Cloud Service APIs](http://www.lynda.com/API-tutorials/Up-Running-Cloud-Service-APIs/151707-2.html)
 
+### Visualization tools
+* [d3.js](http://d3js.org/) - JS library for manipulating documents based on data, using HTML, SVG, and CSS
+* [p5.js](http://p5js.org/) - Processing reinterpreted for the web
+* [raphael.js](http://raphaeljs.com/) - JS library for manipulating vector graphics for charts and viz
+* [dygraphs](http://dygraphs.com/) - JS charting library
+* [Vega](https://github.com/trifacta/vega) - describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG
+* [Gephi](https://gephi.github.io/) - interactive visualization and exploration platform for networks and complex systems
 
-### Tools
+### General tools
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
 * [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands) - We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. 
 * Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
