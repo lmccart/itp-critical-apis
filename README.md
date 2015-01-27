@@ -126,7 +126,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 
 # Resources
 
-### JS basics
+### JS basics - tutorial
 * [CodeAcademy: JavaScript](http://www.codecademy.com/tracks/javascript)
 * [How to learn JavaScript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [JavaScript the right way](http://www.jstherightway.org/)
@@ -145,7 +145,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * [HTML & CSS book](http://www.htmlandcssbook.com/)
 * [JavaScript book](http://www.javascriptbook.com/)
 
-### APIs
+### APIs - tutorial
 * [APIs: Strategy Guide (O'Reilly)](http://www.amazon.com/APIs-Strategy-Guide-Daniel-Jacobson/dp/1449308929/)
 * [RESTful Web APIs (O'Reilly)](http://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063)
 * [codecademy APIs tutorials](http://www.codecademy.com/learn)
@@ -167,3 +167,14 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * Browser debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
 * Mobile debugging [jsconsole.com](http://jsconsole.com)
 * Sharing code snippets (useful for asking questions): [gist.github.com](http://gist.github.com)
+
+### APIs
+* http://en.wikipedia.org/wiki/List_of_open_APIs
+* https://gist.github.com/afeld/4952991
+* OpenWeatherMap - http://openweathermap.org/API
+* NYTimes - http://developer.nytimes.com/
+* The Guardian - http://www.theguardian.com/open-platform
+* flickr - https://www.flickr.com/services/api/
+* MTA - http://web.mta.info/developers/developer-data-terms.html#data
+* Foursquare - https://developer.foursquare.com/
+* Sunlight Foundation - http://sunlightfoundation.com/api/
