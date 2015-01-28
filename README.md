@@ -114,7 +114,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * **Discussion: protocol and control**
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol) - Introduction
-  * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
+  * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford — Pat Shiu
 * Technical workshop
   * JS basics
   * REST, JSON
