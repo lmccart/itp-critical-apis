@@ -54,6 +54,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 ### Week 1 (1/28, 3/25)
 * Intro and syllabus
 * History of APIs
+  * []IBM System/360](http://www.beagle-ears.com/lars/engineer/comphist/c20-1684/fig001.jpg) (1964) 
   * [salesforce.com](https://raw.githubusercontent.com/lmccart/itp-critical-apis/master/images/salesforce-2000.png) (2000) 
   * [ebay](http://kinlane-productions.s3.amazonaws.com/ebay/ebay-developer-program-history.png) (2000)
   * [AWS](http://kinlane-productions.s3.amazonaws.com/amazon/Amazon-Web-Services-News-Release.png) (2002)
@@ -68,6 +69,10 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * [twilio](http://dovetailsoftware.com/wp-content/uploads/MTE5Ni1pbWFnZV8yMjgwQjE1Ni5wbmc=.png) (2007)
   * [foursquare](http://venturebeat.com/2009/03/10/dodgeball-founder-pegs-google-in-the-face-with-foursquare/) (2009)
   * Instagram [unofficial API](http://www.programmableweb.com/news/full-featured-unpublished-instagram-api/2010/12/15) (2010) and [official API](http://blog.instagram.com/post/8756150468/a-real-time-api-for-next-generation-apps) (2011)
+* Politics of APIs
+  * ["Politics of APIs" diagram](https://d262ilb51hltx0.cloudfront.net/max/1448/1*B-pvEvv5tTMZdu7Kfk7Efg.png), Kin Lane
+  * [Medium: Politics of APIs](https://medium.com/politics-of-apis/the-politics-of-apis-3a29b8dfee64), Tyler Singletary
+  * [5 Things to Understand About Open APIs](http://www.mashery.com/blog/5-things-understand-about-successful-open-apis), Chuck Freedman
 * Part 1 intro / survey
 * Technical workshop: API shortcuts and alternatives
   * [IFTTT](https://ifttt.com/)
@@ -166,6 +171,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * [codecademy APIs tutorials](http://www.codecademy.com/learn)
 * [lynda.com: Effective Design of RESTful APIs](http://www.lynda.com/API-tutorials/Effective-Design-RESTful-APIs/166777-2.html)
 * [lynda.com: Up and Running with Cloud Service APIs](http://www.lynda.com/API-tutorials/Up-Running-Cloud-Service-APIs/151707-2.html)
+* [Scraping the web with node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
 
 ### Visualization tools
 * [d3.js](http://d3js.org/) - JS library for manipulating documents based on data, using HTML, SVG, and CSS
@@ -182,6 +188,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * Browser debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
 * Mobile debugging [jsconsole.com](http://jsconsole.com)
 * Sharing code snippets (useful for asking questions): [gist.github.com](http://gist.github.com)
+* [Critical Making](http://conceptlab.com/criticalmaking/), Garnet Hertz
 
 ### APIs
 * [ProgrammableWeb](http://www.programmableweb.com/)
@@ -194,3 +201,4 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * MTA - http://web.mta.info/developers/developer-data-terms.html#data
 * Foursquare - https://developer.foursquare.com/
 * Sunlight Foundation - http://sunlightfoundation.com/api/
+* [apievangelist.com/](http://apievangelist.com/)
