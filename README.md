@@ -73,7 +73,32 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * ["Politics of APIs" diagram](https://d262ilb51hltx0.cloudfront.net/max/1448/1*B-pvEvv5tTMZdu7Kfk7Efg.png), Kin Lane
   * [Medium: Politics of APIs](https://medium.com/politics-of-apis/the-politics-of-apis-3a29b8dfee64), Tyler Singletary
   * [5 Things to Understand About Open APIs](http://www.mashery.com/blog/5-things-understand-about-successful-open-apis), Chuck Freedman
-* Part 1 intro / survey
+* Survey
+  * [Life Sharing](http://0100101110101101.org/life-sharing/), Eva and Franco Mattes
+  * Revealing metadata
+    * [Floodwatch](http://floodwatch.o-c-r.org/), Ashkan Soltani, The Office for Creative Research - [You are not your browser history](https://medium.com/backchannel/you-are-not-your-browser-history-cdff623a3b24)
+    * [Internet Illuminator](http://blog.allisonburtch.net/post/86472605463/internet-illuminator), Allison Burtch
+    * [Trackography](https://trackography.org/)
+    * [commodify.us](https://commodify.us/)
+    * [RealCosts](http://therealcosts.com/)
+    * [Harlo Holmes on Activism and Metadata](https://vimeo.com/114175594), Deep Lab
+  * Resistance
+    * [GWEI](http://www.paolocirio.net/work/gwei/), Paolo Cirio, Alessandro Ludovico, Ubermorgen
+    * [web2.0 suicide machine](http://suicidemachine.org/), moddr_, Fresco Gamba
+    * [Punk Rock 101](http://www.coryarcangel.com/things-i-made/punkrock101), Cory Arcangel
+  * Automation
+    * [Random Darknet Shopper](http://hyperallergic.com/174827/art-bot-buys-drugs-tests-the-bounds-of-consciousness/), !Mediengruppe Bitnik
+    * [Amazon Random Shopper](http://boingboing.net/2012/12/26/if-you-give-a-bot-a-gift-card.html), Darius     Kazemi
+  * Visualization
+    * [Prison Map](http://prisonmap.com/about), Josh Begley
+    * [Directions to Last Visitor](http://directionstolastvisitor.com/)
+    * [Hit Counter](https://www.youtube.com/watch?v=_pxrrTNDV4g), Jonah Brucker-Cohen
+    * [America's Got No Talent](http://www.americasgot-notalent.com/), Katherine Moriwaki, Jonah Brucker-Cohen
+    * [Drones](http://drones.pitchinteractive.com/), Pitch Interactive
+    * [The Refugee Project](http://www.therefugeeproject.org/), Hyperakt
+    * [Critical Network Mapping](http://burak-arikan.com/works), Burak Arikan - [Eyeo](https://vimeo.com/117422191)
+    * [Selfie City](http://selfiecity.net/), Lev Manovich, Moritz Stefaner, et al
+    * [Data](http://www.stfj.net/data2010/works.html), Zach Gage
 * Technical workshop: API shortcuts and alternatives
   * [IFTTT](https://ifttt.com/)
   * [Zapier](https://zapier.com)
