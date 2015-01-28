@@ -110,10 +110,9 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * **[Project 1 (DUE 2/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#project-1-due-211)**
 
 ### Week 2 (2/4, 4/1)
-* Discussion
+* **Discussion: protocol and control**
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
-  * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol)
-  * Ivan Illich, [Tools for Conviviality](http://eekim.com/ba/bookclub/illich/tools.pdf)
+  * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol) - Introduction
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 * Technical workshop
   * JS basics
@@ -134,14 +133,13 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * Create your own API with node.js.
   * Model and collect data.
   * Create and serve-up API endpoints in a RESTful style (responding with JSON).
-* **Discussion: Open web / access, tactical media, exploits, hacking**
+* **Discussion: open web / access, tactical media, exploits, hacking**
   * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
   * Manifestos
     * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
     * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
-  * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink
-  * [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway, Eugene Thacker
+  * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway, Eugene Thacker
   
   
 ### Week 5 (2/25, 4/22)
@@ -158,8 +156,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * Hardware / device APIs
   * Arduino Yun
 * **Discussion: The Internet of Things and People**
-  * [A Design Methodology for Deconstructing Networks](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp33to38-BruckerCohen-ADesignMethodologyForDeconstructingNetworks.pdf), Jonah Brucker-Cohen
-  * [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle
+  * [A Design Methodology for Deconstructing Networks](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp33to38-BruckerCohen-ADesignMethodologyForDeconstructingNetworks.pdf), Jonah Brucker-Cohen and [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle
   * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski
   * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling
 
