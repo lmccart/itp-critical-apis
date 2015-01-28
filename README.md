@@ -68,6 +68,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * [mashery.com](http://techcrunch.com/2006/11/06/mashery-api-management-service-is-open-for-business/) (2006)
   * [twilio](http://dovetailsoftware.com/wp-content/uploads/MTE5Ni1pbWFnZV8yMjgwQjE1Ni5wbmc=.png) (2007)
   * [foursquare](http://venturebeat.com/2009/03/10/dodgeball-founder-pegs-google-in-the-face-with-foursquare/) (2009)
+  * [Oracle vs Google](https://www.eff.org/deeplinks/2014/05/dangerous-ruling-oracle-v-google-federal-circuit-reverses-sensible-lower-court) (2014)
   * Instagram [unofficial API](http://www.programmableweb.com/news/full-featured-unpublished-instagram-api/2010/12/15) (2010) and [official API](http://blog.instagram.com/post/8756150468/a-real-time-api-for-next-generation-apps) (2011)
 * Politics of APIs
   * ["Politics of APIs" diagram](https://d262ilb51hltx0.cloudfront.net/max/1448/1*B-pvEvv5tTMZdu7Kfk7Efg.png), Kin Lane
