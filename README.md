@@ -156,9 +156,9 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * Technical workshop
   * Hardware / device APIs
   * Arduino Yun
-* **Discussion: The Internet of Things and People**
+* **Discussion: The Internet of Things and People** 
   * [A Design Methodology for Deconstructing Networks](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp33to38-BruckerCohen-ADesignMethodologyForDeconstructingNetworks.pdf), Jonah Brucker-Cohen and [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle
-  * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski
+  * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski (Luke Kao, Xi Liu)
   * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling
 
 
