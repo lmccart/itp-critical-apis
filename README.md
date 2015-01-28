@@ -224,3 +224,4 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * Foursquare - https://developer.foursquare.com/
 * Sunlight Foundation - http://sunlightfoundation.com/api/
 * [apievangelist.com/](http://apievangelist.com/)
+* [Museum APIs list](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs)
