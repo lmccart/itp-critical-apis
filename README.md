@@ -14,7 +14,7 @@ An API allows a connection between two different applications. It can pass data 
 Central to the class is the idea that APIs are by nature future-oriented, providing an access point where we may reimagine and renegotiate the world we live in. The course will be project-based, complemented by shorter technical exercises, readings, and research. Experience with JavaScript is highly recommended.	
 
 # Evaluation
-
+ 
 Grades will be determined according to the following breakdown:
 * Project 1 25%
 * Project 2 25%
