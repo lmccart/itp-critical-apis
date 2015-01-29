@@ -38,7 +38,7 @@ There will be a number of readings for this course. Each reading will be prepare
 
 On the days you are not presenting, you do not need to read all of each reading, but you need to read/scan enough to be able to participate in the class discussion.
 
-Sign up for the reading you'd like to present on by putting your name next to it in the syllabus.
+Sign up for the reading you'd like to present on by putting your name next to it in the syllabus. ([Instructions for modifying README.md](https://gist.github.com/lmccart/ee86d58f2c012145215a).)
 
 ### Projects
 
