@@ -112,7 +112,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 
 ### Week 2 (2/4, 4/1)
 * **Discussion: protocol and control**
-  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
+  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter] (Renata Kuba) API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol) - Introduction
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford (Tanya Campbell, Pat Shiu)
 * Technical workshop
