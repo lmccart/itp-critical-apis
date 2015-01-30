@@ -135,7 +135,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * Model and collect data.
   * Create and serve-up API endpoints in a RESTful style (responding with JSON).
 * **Discussion: open web / access, tactical media, exploits, hacking**
-  * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
+  * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience (Yurika Mulase, Zhen, Liu)
   * Manifestos
     * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
