@@ -112,7 +112,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 
 ### Week 2 (2/4, 4/1)
 * **Discussion: protocol and control**
-  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter] (Renata Kuba) API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
+  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api) (Renata Kuba)
   * Alexander Galloway, [Protocol](http://mitpress.mit.edu/books/protocol) - Introduction
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford (Tanya Campbell, Pat Shiu)
 * Technical workshop
@@ -159,7 +159,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * **Discussion: The Internet of Things and People** 
   * [A Design Methodology for Deconstructing Networks](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp33to38-BruckerCohen-ADesignMethodologyForDeconstructingNetworks.pdf), Jonah Brucker-Cohen and [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle
   * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski (Luke Kao, Xi Liu)
-  * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling (Soni Hahn)
+  * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling (Soni Hahn, Chang Liu)
 
 
 ### Week 7 (3/11, 5/6)
