@@ -113,12 +113,22 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 ### Week 2 (2/4, 4/1)
 * **Discussion: protocol and control**
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api) (Renata Kuba, Sung Hoon Kim)
-  * Alexander Galloway, [Protocol](http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf) - Introduction pg3-27
+  * Alexander Galloway, [Protocol](http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf) - Introduction pg3-27 (Jingwen Zhu, Xiaolong Mou)
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford (Tanya Campbell, Pat Shiu)
 * Technical workshop
-  * JS basics
-  * REST, JSON
-  * Server side / OAuth
+  * Tools
+    * [command line](http://www.davidbaumgold.com/tutorials/command-line/#basic-utilities)
+    * [p5.js](http://p5js.org)
+    * [jQuery](http://jquery.com)
+    * [node](http://nodejs.org)
+    * [servi](https://github.com/antiboredom/servi.js) - [documentation](https://github.com/antiboredom/servi.js/wiki) 
+  * Tutorials
+    * [Running a local http server](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
+    * [Loading data client-side with AJAX](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+  * Examples
+    * [p5.js AJAX examples]()
+    * [jQuery AJAX examples]()
+    * [servi examples]()
 
 
 ### Week 3 (2/11, 4/8)
@@ -203,6 +213,17 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * [dygraphs](http://dygraphs.com/) - JS charting library
 * [Vega](https://github.com/trifacta/vega) - describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG
 * [Gephi](https://gephi.github.io/) - interactive visualization and exploration platform for networks and complex systems
+
+
+### p5.js
+* [p5.js reference](http://p5js.org/reference)
+* [p5.js forum](http://forum.processing.org/two/)
+* [p5.js on GitHub](https://github.com/lmccart/p5.js)
+* [p5.js CDN](http://cdnjs.com/libraries/p5.js)
+
+### Servi.js
+* [servi.js documentation](https://github.com/antiboredom/servi.js/wiki)
+
 
 ### General tools
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
