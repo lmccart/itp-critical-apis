@@ -117,18 +117,21 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford (Tanya Campbell, Pat Shiu)
 * Technical workshop
   * Tools
-    * [command line](http://www.davidbaumgold.com/tutorials/command-line/#basic-utilities)
+    * [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands)
+    * [Chrome extension for viewing JSON](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
     * [p5.js](http://p5js.org)
-    * [jQuery](http://jquery.com)
+    * [jQuery](http://jquery.com/download/)
     * [node](http://nodejs.org)
     * [servi](https://github.com/antiboredom/servi.js) - [documentation](https://github.com/antiboredom/servi.js/wiki) 
   * Tutorials
-    * [Running a local http server](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
+    * [Running a local http server](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Local-Server-Tutorial)
     * [Loading data client-side with AJAX](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+    * [Instagram API how-to](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
   * Examples
     * [p5.js AJAX examples]()
     * [jQuery AJAX examples]()
-    * [servi examples]()
+    * [servi API examples]()
+    * [servi general examples](https://github.com/lmccart/itp-networked-media/tree/master/week6)
 
 
 ### Week 3 (2/11, 4/8)
