@@ -113,7 +113,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 ### Week 2 (2/4, 4/1)
 * **Discussion: protocol and control**
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api) (Renata Kuba, Sung Hoon Kim)
-  * Alexander Galloway, [Protocol](http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf) - Introduction pg3-27 (Jingwen Zhu, Xiaolong Mou)
+  * Alexander Galloway, [Protocol](http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf) - Introduction pg3-27 (Xiaolong Mou)
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford (Tanya Campbell, Pat Shiu)
 * Technical workshop
   * Tools
