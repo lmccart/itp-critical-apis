@@ -128,10 +128,11 @@ The technical workshops in the class will use JavaScript. You are welcome to use
     * [Loading data client-side with AJAX](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
     * [Instagram API how-to](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
   * Examples
-    * [p5.js AJAX examples]()
-    * [jQuery AJAX examples]()
-    * [servi API examples]()
-    * [servi general examples](https://github.com/lmccart/itp-networked-media/tree/master/week6)
+    * [p5.js AJAX examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/01_ajax_p5_examples)
+    * [jQuery AJAX examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/02_ajax_jquery_examples)
+    * [Instagram API example](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/03_ajax_instagram_example)
+    * [servi API examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/04_servi_api_examples)
+    * [servi general examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/05_servi_general_examples)
 
 
 ### Week 3 (2/11, 4/8)
