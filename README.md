@@ -16,10 +16,9 @@ Central to the class is the idea that APIs are by nature future-oriented, provid
 # Evaluation
 
 Grades will be determined according to the following breakdown:
-* Project 1 25%
-* Project 2 25%
-* Final Project 25%
-* Participation and attendance 25%
+* Final project proposal 20%
+* Final Project 40%
+* Participation and attendance 40%
 
 Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
@@ -42,7 +41,7 @@ Sign up for the reading you'd like to present on by putting your name next to it
 
 ### Projects
 
-There will be three projects during the class. The first two will have more specific guidelines, and the final project will be open. For the first two projects, you may actually implement something, or you may present a conceptual mock-up of an idea. The final project must be something you actually create, not just a concept. It may expand on one of the earlier projects.
+The class will be based around a semester long final project, with a final project proposal in week 5. The final project should be a creative project that is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, final projects can take any form. You may work together.
 
 The technical workshops in the class will use JavaScript. You are welcome to use any language or tool for your work.
 
@@ -108,7 +107,6 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * [Yahoo pipes](https://pipes.yahoo.com/pipes/)
   * [Temboo](https://www.temboo.com/)
   * [Kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
-* **[Project 1 (DUE 2/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#project-1-due-211)**
 
 ### Week 2 (2/4, 4/1)
 * **Discussion: protocol and control**
@@ -136,10 +134,30 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 
 
 ### Week 3 (2/11, 4/8)
-* Review Project 1
-* Part 2 intro / survey
+* **Guest lecture [Allison Burtch](http://www.allisonburtch.net/)** (4/8)
+* Survey
+  * Tactical Inverventions
+    * [Loophole for All](http://www.paolocirio.net/work/loophole-for-all/), Paolo Cirio
+    * [Persecuting US](http://www.paolocirio.net/work/persecuting-us/), Paolo Cirio
+    * [Daily Paywall](http://paolocirio.net/work/daily-paywall/), Paolo Cirio
+    * [Face2Facebook](http://www.face-to-facebook.net/hacking-monopolism-trilogy.php), Paolo Cirio, Alessandro Ludovico  
+    * [Amazon Noir](http://www.paolocirio.net/work/amazon-noir/), Paolo Cirio, UBERMORGEN.COM, Alessandro Ludovico
+    * [Vote Auction](http://www.vote-auction.net/), UBERMORGEN.COM
+    * [Sound of eBay](http://www.sound-of-ebay.com/100.php), UBERMORGEN.COM
+    * [Female Extension](http://alltheartever.tumblr.com/post/103318023949/female-extension-cornelia-sollfrank-1997-in-1997), Cornelia Sollfrank
+    * [Julian Oliver](http://julianoliver.com/output/)
+  * Create your own API
+    * [Free Universal Construction Kit](http://fffff.at/free-universal-construction-kit), Golan Levin
+    * [Dronestre.am](http://dronestre.am/), Josh Begley - [@dronestream](https://twitter.com/dronestream)
+    * [Dronestagram](http://shorttermmemoryloss.com/portfolio/project/dronestagram/), James Bridle
+    * [Tracking Transience](http://trackingtransience.net/), Hasan Elahi - [NYTimes](http://www.nytimes.com/2011/10/30/opinion/sunday/giving-the-fbi-what-it-wants.html?pagewanted=all&_r=3&)
+    * [Botanicalls](http://www.botanicalls.com/kits/), Kate Hartman
+    * [Hip Hop Almanac](http://staplecrops.com/), Tahir Hemphill
+    * [Big Data Pawn Shop](http://www.wired.com/2014/12/looking-hoodie-nsa-documents-store/), Adam Harvey, Sam Lavigne, Surya Mattu
+    * [Suicide Box](http://www.bureauit.org/decade/projects.html#suicidebox), Bureau of Inverse Technology
+    * [Bit Cab](http://www.bureauit.org/decade/projects.html#bitcab), Bureau of Inverse Technology
+    * [BangBang](http://www.bureauit.org/decade/projects.html#bangbang), Bureau of Inverse Technology
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
-* **[Project 2 (DUE 2/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#project-2-due-225)**
 
 ## Part 2: Response and freedom
 
@@ -155,13 +173,14 @@ The technical workshops in the class will use JavaScript. You are welcome to use
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
     * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
   * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway, Eugene Thacker
+* **[Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225) (DUE 2/25)**
   
   
 ### Week 5 (2/25, 4/22)
 * **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)** (2/25)
-* Review Project 2
+* Review [Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225)
 * Part 3 intro / survey
-* **[Final Project (DUE 3/11)](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311)** 
+* **[Final Project](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311) (DUE 3/11)**
 
 
 ## Part 3: Networks
@@ -177,7 +196,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 
 
 ### Week 7 (3/11, 5/6)
-* Review Final Projects
+* Review [Final Projects](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311)
 * Wrap-up
 
 
