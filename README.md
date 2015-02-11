@@ -166,6 +166,9 @@ The technical workshops in the class will use JavaScript. You are welcome to use
       * [BangBang](http://www.bureauit.org/decade/projects.html#bangbang)
   * Transform
     * [A Thousand Exhausted Things](http://blog.blprnt.com/blog/blprnt/on-data-and-performance), Elevator Repair Survey, The OCR
+    * [Data-Driven Music for the Disharmony of New York’s Income Inequality](http://hyperallergic.com/180725/data-driven-music-to-for-the-disharmony-of-new-yorks-income-inequality/), Brian Foo
+    * [You'll Just Have To Take My Word For It](http://brianhouse.net/works/youll_just_have_to_take_my_word_for_it/), Brian House
+    * [Joyride](http://brianhouse.net/works/joyride/), Brian House and Sue Huang
     * [Deaddrops](https://deaddrops.com/), Aram Bartholl
     * [Yo warns of Israeli missile strikes](http://www.wired.com/2014/07/an-actually-useful-version-of-yo-is-warning-israelis-of-rocket-strikes/)
     * [Krzysztof Wodiczko](http://cavs.mit.edu/artist/id.417-418.html) - [War Veteran Projection](http://moreart.org/projects/krzysztof-wodiczko/)
