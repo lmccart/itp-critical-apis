@@ -180,7 +180,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * Create and serve-up API endpoints in a RESTful style (responding with JSON).
 * **Discussion: open web / access, tactical media, exploits, hacking**
   * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience (Yurika Mulase, Zhen, Liu)
-  * Manifestos
+  * Manifestos (Eamon O'Connor)
     * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
     * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
