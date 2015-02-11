@@ -137,17 +137,21 @@ The technical workshops in the class will use JavaScript. You are welcome to use
 * **Guest lecture [Allison Burtch](http://www.allisonburtch.net/)** (4/8)
 * Survey
   * Tactical Inverventions
-    * [Loophole for All](http://www.paolocirio.net/work/loophole-for-all/), Paolo Cirio
-    * [Persecuting US](http://www.paolocirio.net/work/persecuting-us/), Paolo Cirio
-    * [Daily Paywall](http://paolocirio.net/work/daily-paywall/), Paolo Cirio
-    * [Face2Facebook](http://www.face-to-facebook.net/hacking-monopolism-trilogy.php), Paolo Cirio, Alessandro Ludovico  
-    * [Amazon Noir](http://www.paolocirio.net/work/amazon-noir/), Paolo Cirio, UBERMORGEN.COM, Alessandro Ludovico
-    * [Vote Auction](http://www.vote-auction.net/), UBERMORGEN.COM
-    * [Sound of eBay](http://www.sound-of-ebay.com/100.php), UBERMORGEN.COM
+    * Paolo Cirio
+      * [Loophole for All](http://www.paolocirio.net/work/loophole-for-all/)
+      * [Persecuting US](http://www.paolocirio.net/work/persecuting-us/)
+      * [Daily Paywall](http://paolocirio.net/work/daily-paywall/)
+      * [Face2Facebook](http://www.face-to-facebook.net/hacking-monopolism-trilogy.php), Paolo Cirio, Alessandro Ludovico  
+    * UBERMORGEN.COM
+      * [Amazon Noir](http://www.paolocirio.net/work/amazon-noir/), Paolo Cirio, UBERMORGEN.COM, Alessandro Ludovico
+      * [Vote Auction](http://www.vote-auction.net/)
+      * [Sound of eBay](http://www.sound-of-ebay.com/100.php)
     * [Female Extension](http://alltheartever.tumblr.com/post/103318023949/female-extension-cornelia-sollfrank-1997-in-1997), Cornelia Sollfrank
     * [Julian Oliver](http://julianoliver.com/output/)
     * [Biononymous](http://biononymous.com/)
-    * [FAT Lab](http://fffff.at/) - [video](https://www.youtube.com/watch?v=-b0rlJvO1BQ), [Ideas Worth Spreading](http://fffff.at/ideas-worth-spreading/), [Shaved Bieber](http://fffff.at/shaved-bieber/)
+    * [FAT Lab](http://fffff.at/) - [video](https://www.youtube.com/watch?v=-b0rlJvO1BQ)
+      * [Ideas Worth Spreading](http://fffff.at/ideas-worth-spreading/)
+      * [Shaved Bieber](http://fffff.at/shaved-bieber/)
   * Create your own API
     * [Free Universal Construction Kit](http://fffff.at/free-universal-construction-kit), Golan Levin
     * [Dronestre.am](http://dronestre.am/), Josh Begley - [@dronestream](https://twitter.com/dronestream)
@@ -156,9 +160,10 @@ The technical workshops in the class will use JavaScript. You are welcome to use
     * [Botanicalls](http://www.botanicalls.com/kits/), Kate Hartman
     * [Hip Hop Almanac](http://staplecrops.com/), Tahir Hemphill
     * [Big Data Pawn Shop](http://www.wired.com/2014/12/looking-hoodie-nsa-documents-store/), Adam Harvey, Sam Lavigne, Surya Mattu
-    * [Suicide Box](http://www.bureauit.org/decade/projects.html#suicidebox), Bureau of Inverse Technology
-    * [Bit Cab](http://www.bureauit.org/decade/projects.html#bitcab), Bureau of Inverse Technology
-    * [BangBang](http://www.bureauit.org/decade/projects.html#bangbang), Bureau of Inverse Technology
+    * Bureau of Inverse Technology
+      * [Suicide Box](http://www.bureauit.org/decade/projects.html#suicidebox)
+      * [Bit Cab](http://www.bureauit.org/decade/projects.html#bitcab)
+      * [BangBang](http://www.bureauit.org/decade/projects.html#bangbang)
   * Transform
     * [A Thousand Exhausted Things](http://blog.blprnt.com/blog/blprnt/on-data-and-performance), Elevator Repair Survey, The OCR
     * [Deaddrops](https://deaddrops.com/), Aram Bartholl
@@ -178,7 +183,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * Manifestos
     * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
-    * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark (Eamon O'Connor)
+    * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
   * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway, Eugene Thacker (Teresa Lamb)
 * **[Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225) (DUE 2/25)**
   
