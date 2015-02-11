@@ -1,4 +1,8 @@
+// Install servi node module: npm install servi
 var servi = require('servi');
+
+// Install restclient node module: npm install node-restclient
+var restclient = require('node-restclient');
 
 var app = new servi(true);
 
@@ -10,22 +14,10 @@ function requestHandler(request) {
 
   var url = 'http://api.openweathermap.org/data/2.5/weather?q=NewYork,USA';
 
-  http.get(url, function(res) {
-    var body = '';
-
-    res.on('data', function(chunk) {
-      body += chunk;
-    });
-
-    res.on('end', function() {
-      var data = JSON.parse(body)
-      console.log("Got response: ", data);
-    });
-
-  }).on('error', function(e) {
-    console.log("Got error: ", e);
+  restclient.get(url, function(data) {
+    data = JSON.parse(data);
+    console.log(data.coord.lon)
   });
-
 
   request.respond("Hello World");
 
