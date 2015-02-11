@@ -146,6 +146,8 @@ The technical workshops in the class will use JavaScript. You are welcome to use
     * [Sound of eBay](http://www.sound-of-ebay.com/100.php), UBERMORGEN.COM
     * [Female Extension](http://alltheartever.tumblr.com/post/103318023949/female-extension-cornelia-sollfrank-1997-in-1997), Cornelia Sollfrank
     * [Julian Oliver](http://julianoliver.com/output/)
+    * [Biononymous](http://biononymous.com/)
+    * [FAT Lab](http://fffff.at/) - [video](https://www.youtube.com/watch?v=-b0rlJvO1BQ), [Ideas Worth Spreading](http://fffff.at/ideas-worth-spreading/), [Shaved Bieber](http://fffff.at/shaved-bieber/)
   * Create your own API
     * [Free Universal Construction Kit](http://fffff.at/free-universal-construction-kit), Golan Levin
     * [Dronestre.am](http://dronestre.am/), Josh Begley - [@dronestream](https://twitter.com/dronestream)
@@ -157,6 +159,11 @@ The technical workshops in the class will use JavaScript. You are welcome to use
     * [Suicide Box](http://www.bureauit.org/decade/projects.html#suicidebox), Bureau of Inverse Technology
     * [Bit Cab](http://www.bureauit.org/decade/projects.html#bitcab), Bureau of Inverse Technology
     * [BangBang](http://www.bureauit.org/decade/projects.html#bangbang), Bureau of Inverse Technology
+  * Transform
+    * [A Thousand Exhausted Things](http://blog.blprnt.com/blog/blprnt/on-data-and-performance), Elevator Repair Survey, The OCR
+    * [Deaddrops](https://deaddrops.com/), Aram Bartholl
+    * [Yo warns of Israeli missile strikes](http://www.wired.com/2014/07/an-actually-useful-version-of-yo-is-warning-israelis-of-rocket-strikes/)
+    * [Krzysztof Wodiczko](http://cavs.mit.edu/artist/id.417-418.html) - [War Veteran Projection](http://moreart.org/projects/krzysztof-wodiczko/)
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
 
 ## Part 2: Response and freedom
