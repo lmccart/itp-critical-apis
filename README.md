@@ -178,7 +178,7 @@ The technical workshops in the class will use JavaScript. You are welcome to use
   * Manifestos
     * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
-    * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
+    * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark (Eamon O'Connor)
   * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway, Eugene Thacker (Teresa Lamb)
 * **[Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225) (DUE 2/25)**
   
