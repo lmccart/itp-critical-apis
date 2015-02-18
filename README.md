@@ -45,6 +45,7 @@ The class will be based around a semester long final project, with a final proje
 
 The technical workshops in the class will use JavaScript. You are welcome to use any language or tool for your work.
 
+See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projects) for more information.
 
 # Syllabus
 
