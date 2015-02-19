@@ -178,7 +178,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 ## Part 2: Response and freedom
 
 ### Week 4 (2/18, 4/15)
-* **Guest workshop [Sam Slover](http://samslover.com/)**
+* **Guest workshop [Sam Slover](http://samslover.com/)** - [demo code and notes](https://github.com/sslover/restful-api-node-express-mongodb-heroku-boilerplate)
   * Create your own API with node.js.
   * Model and collect data.
   * Create and serve-up API endpoints in a RESTful style (responding with JSON).
