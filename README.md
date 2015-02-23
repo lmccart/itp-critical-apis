@@ -195,7 +195,17 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 ### Week 5 (2/25, 4/22)
 * **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)** (2/25)
 * Review [Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225)
-* Part 3 intro / survey
+* Survey
+  * ["This one weird trick" talk](https://vimeo.com/110755279), Dan Williams
+  * Crowdsourcing
+    * [A Brief Guide To Crowdsourced Art](http://thecreatorsproject.vice.com/blog/creativity-bytes-a-brief-guide-to-crowdsourced-art), Creators Project
+    * [Laborers of Love](http://jeffish.com/projects/laborers_of_love.html), Jeff Crouse
+    * [Crowd Workers of the World Unite](http://www.crowdworkersoftheworldunite.com/), Jeff Crouse
+    * [Social Turkers](http://socialturkers.com/), Lauren McCarthy
+    * [Sheep Market](http://www.aaronkoblin.com/work/thesheepmarket/), Aaron Koblin
+    * [Mechanical Olympics](http://rhizome.org/editorial/2008/aug/5/lets-get-physical/), Xtine Hanson
+    * [Befnoed](http://0100101110101101.org/befnoed/), Eva and Franco Mattes
+    * [Turkopitcon](https://turkopticon.ucsd.edu/)
 * **[Final Project](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311) (DUE 3/11)**
 
 
