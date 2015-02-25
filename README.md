@@ -153,6 +153,8 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [FAT Lab](http://fffff.at/) - [video](https://www.youtube.com/watch?v=-b0rlJvO1BQ)
       * [Ideas Worth Spreading](http://fffff.at/ideas-worth-spreading/)
       * [Shaved Bieber](http://fffff.at/shaved-bieber/)
+    * [ScareMail](http://bengrosser.com/projects/scaremail/), Ben Grosser
+    * [Add-Art](http://visitsteve.com/made/add-art-art-replaces-ads/), Steve Lambert
   * Create your own API
     * [Free Universal Construction Kit](http://fffff.at/free-universal-construction-kit), Golan Levin
     * [Dronestre.am](http://dronestre.am/), Josh Begley - [@dronestream](https://twitter.com/dronestream)
@@ -173,6 +175,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Deaddrops](https://deaddrops.com/), Aram Bartholl
     * [Yo warns of Israeli missile strikes](http://www.wired.com/2014/07/an-actually-useful-version-of-yo-is-warning-israelis-of-rocket-strikes/)
     * [Krzysztof Wodiczko](http://cavs.mit.edu/artist/id.417-418.html) - [War Veteran Projection](http://moreart.org/projects/krzysztof-wodiczko/)
+    * [China Channel](http://chinachannel.fffff.at/), FAT Lab
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
 
 ## Part 2: Response and freedom
@@ -196,7 +199,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 * **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)** (2/25)
 * Review [Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225)
 * Survey
-  * ["This one weird trick" talk](https://vimeo.com/110755279), Dan Williams
+  * ["This one weird trick" talk](https://vimeo.com/110755279), Dan Williams  
   * Crowdsourcing
     * [A Brief Guide To Crowdsourced Art](http://thecreatorsproject.vice.com/blog/creativity-bytes-a-brief-guide-to-crowdsourced-art), Creators Project
     * [Laborers of Love](http://jeffish.com/projects/laborers_of_love.html), Jeff Crouse
@@ -205,7 +208,18 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Sheep Market](http://www.aaronkoblin.com/work/thesheepmarket/), Aaron Koblin
     * [Mechanical Olympics](http://rhizome.org/editorial/2008/aug/5/lets-get-physical/), Xtine Hanson
     * [Befnoed](http://0100101110101101.org/befnoed/), Eva and Franco Mattes
-    * [Turkopitcon](https://turkopticon.ucsd.edu/)
+    * [Turkopticon](https://turkopticon.ucsd.edu/)
+  * Connecting
+    * [Nexus Architecture](http://www.studio-orta.com/en/artworks/serie/10/Nexus-Architecture), Lucy and Jorge Orta
+    * [paraSITE](http://michaelrakowitz.com/projects/parasite/), Michael Rakowitz
+    * [Block Together](https://blocktogether.org/)
+    * [Twitch Plays Pokemon](http://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
+    * [A Tool to Deceive and Slaughter](http://caleblarsen.com/a-tool-to-deceive-and-slaughter/), Caleb Larsen
+  * Location
+    * [Hell is Other People](http://hell.j38.net/), Scott Garner
+    * [Avoid Humans](http://avoidhumans.com/)
+    * [Girls Around Me](http://girlsaround.me/)
+    * [Please Rob Me](http://pleaserobme.com/)
 * **[Final Project](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311) (DUE 3/11)**
 
 
