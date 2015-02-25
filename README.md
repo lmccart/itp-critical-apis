@@ -215,6 +215,10 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Block Together](https://blocktogether.org/)
     * [Twitch Plays Pokemon](http://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
     * [A Tool to Deceive and Slaughter](http://caleblarsen.com/a-tool-to-deceive-and-slaughter/), Caleb Larsen
+  * Disconnecting
+    * [Ssocial Roulette](http://socialroulette.net)
+    * [Web 2.0 Suicide Machine](http://en.wikipedia.org/wiki/Web_2.0_Suicide_Machine)
+    * [Self Control](http://visitsteve.com/made/selfcontrol/), Steve Lambert
   * Location
     * [Hell is Other People](http://hell.j38.net/), Scott Garner
     * [Avoid Humans](http://avoidhumans.com/)
