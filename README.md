@@ -224,6 +224,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Avoid Humans](http://avoidhumans.com/)
     * [Girls Around Me](http://girlsaround.me/)
     * [Please Rob Me](http://pleaserobme.com/)
+* [Questions for next week's demo](https://github.com/lmccart/itp-critical-apis/wiki/Topics-for-week-6-demo)
 * **[Final Project](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311) (DUE 3/11)**
 
 
