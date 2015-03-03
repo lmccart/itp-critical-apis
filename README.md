@@ -215,11 +215,16 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Block Together](https://blocktogether.org/)
     * [Twitch Plays Pokemon](http://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
     * [A Tool to Deceive and Slaughter](http://caleblarsen.com/a-tool-to-deceive-and-slaughter/), Caleb Larsen
+  * Disconnecting
+    * [Ssocial Roulette](http://socialroulette.net)
+    * [Web 2.0 Suicide Machine](http://en.wikipedia.org/wiki/Web_2.0_Suicide_Machine)
+    * [Self Control](http://visitsteve.com/made/selfcontrol/), Steve Lambert
   * Location
     * [Hell is Other People](http://hell.j38.net/), Scott Garner
     * [Avoid Humans](http://avoidhumans.com/)
     * [Girls Around Me](http://girlsaround.me/)
     * [Please Rob Me](http://pleaserobme.com/)
+* [Questions for next week's demo](https://github.com/lmccart/itp-critical-apis/wiki/Topics-for-week-6-demo)
 * **[Final Project](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311) (DUE 3/11)**
 
 
@@ -231,7 +236,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
   * Arduino Yun
 * **Discussion: The Internet of Things and People** 
   * [A Design Methodology for Deconstructing Networks](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp33to38-BruckerCohen-ADesignMethodologyForDeconstructingNetworks.pdf), Jonah Brucker-Cohen and [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle (Paul Hiam, Lirong Liu)
-  * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski (Luke Kao, Xi Liu) - also check out ["below the API"](http://www.forbes.com/sites/anthonykosner/2015/02/04/google-cabs-and-uber-bots-will-challenge-jobs-below-the-api/)
+  * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski (Luke Kao, Xi Liu,Diana Freed) - also check out ["below the API"](http://www.forbes.com/sites/anthonykosner/2015/02/04/google-cabs-and-uber-bots-will-challenge-jobs-below-the-api/)
   * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling (Soni Hahn, Chang Liu)
 
 
