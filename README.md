@@ -16,28 +16,32 @@ Central to the class is the idea that APIs are by nature future-oriented, provid
 # Evaluation
 
 Grades will be determined according to the following breakdown:
-* Final project proposal 20%
-* Final Project 40%
+* Project 1 20%
+* Project 2 20%
+* Project 3 20%
 * Participation and attendance 40%
 
-Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
+Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail". More than one absence will result in a fail.
 
 The class will be a mix of seminar and studio:
 
 ### Discussion
 
-There will be a number of readings for this course. Each reading will be prepared by one pair of students, who will read in depth and present and lead a discussion around the ideas in it. The goal is not to just give a report, but to engage the class in an interesting and provocative discussion. Things to include in your planning / presentation include:
+There will be a number of readings for this course. Each reading will be prepared by one pair of students, who will read in depth and present a ~5 minute overview. Things to include in your planning / presentation might include:
 
 * Summary of main ideas.
 * Links, images, or video of projects / products / things referenced in the reading.
 * Other relevant things you've read, heard, or seen.
 * Personal experiences.
+
+Each pair should also prepare 1-2 questions for the class. After hearing the presentations, we will have a short group discussion led by all presenters. These could be:
+
 * Questions for the class related to the reading.
 * Questions for the class that relate all three of the readings together.
 
 On the days you are not presenting, you do not need to read all of each reading, but you need to read/scan enough to be able to participate in the class discussion.
 
-See the [discussion page](https://github.com/lmccart/itp-critical-apis/wiki/Discussion) for readings. Sign up for the reading you'd like to present on by putting your name next to it in the syllabus.
+See the [discussion page](https://github.com/lmccart/itp-critical-apis/wiki/Discussion) for readings. Sign up for the reading you'd like to present by putting your name next to it.
 
 
 ### Projects
