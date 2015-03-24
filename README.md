@@ -55,7 +55,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 ### Week 1 (3/25)
 * Intro and syllabus
 * [History](https://github.com/lmccart/itp-critical-apis/wiki/Survey#history-of-apis) and [politics](https://github.com/lmccart/itp-critical-apis/wiki/Survey#politics-of-apis) of APIs
-* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-1-protocol-and-control)
+* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-1-protocol-and-control): protocol and control
 * [Workshop 0](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-0-api-shortcuts-and-alternatives): API shortcuts and alternatives
 * **[Project 1](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48) (DUE 4/8)** 
 
@@ -71,14 +71,14 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 ## Part 2: Response and freedom
 
 ### Week 4 (4/15)
-* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-2-response-and-freedom)
+* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-2-response-and-freedom): response and freedom
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
 * [Discussion](https://github.com/lmccart/itp-critical-apis/wiki/Discussion#part-2-response-and-freedom): open web / access, tactical media, exploits, hacking
 * [Workshop 2: web scraping](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-2-web-scraping)
   
 ### Week 5 (4/22)
 * Review [Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)
-* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-3-networks)
+* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-3-networks): networks
 * **[Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56) (DUE 5/6)**
 
 
