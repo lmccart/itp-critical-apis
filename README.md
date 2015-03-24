@@ -34,10 +34,8 @@ There will be a number of readings for this course. Each reading will be prepare
 * Other relevant things you've read, heard, or seen.
 * Personal experiences.
 
-Each pair should also prepare 1-2 questions for the class. After hearing the presentations, we will have a short group discussion led by all presenters. These could be:
+Each pair should also prepare 1-2 questions for the class. The questions could be specific to your reading or relating all the readings together. After hearing the presentations, we will have a short group discussion around these questions.
 
-* Questions for the class related to the reading.
-* Questions for the class that relate all three of the readings together.
 
 On the days you are not presenting, you do not need to read all of each reading, but you need to read/scan enough to be able to participate in the class discussion.
 
@@ -46,7 +44,7 @@ See the [discussion page](https://github.com/lmccart/itp-critical-apis/wiki/Disc
 
 ### Projects
 
-The class will be based around a semester long final project, with a final project proposal in week 5. The final project should be a creative project that is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, final projects can take any form. You may work together.
+The class will be based around three short projects, due every two weeks. The first two are more constrained, the last is more open-ended. You should feel free to think non-traditionally, projects can take any form. You may work together.
 
 The technical workshops in the class will use JavaScript. You are welcome to use any language or tool for your work.
 
