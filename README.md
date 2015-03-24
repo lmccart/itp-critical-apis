@@ -37,7 +37,8 @@ There will be a number of readings for this course. Each reading will be prepare
 
 On the days you are not presenting, you do not need to read all of each reading, but you need to read/scan enough to be able to participate in the class discussion.
 
-Sign up for the reading you'd like to present on by putting your name next to it in the syllabus. ([instructions for modifying README.md](https://gist.github.com/lmccart/ee86d58f2c012145215a))
+See the [discussion page](https://github.com/lmccart/itp-critical-apis/wiki/Discussion) for readings. Sign up for the reading you'd like to present on by putting your name next to it in the syllabus.
+
 
 ### Projects
 
@@ -64,9 +65,6 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 ### Week 2 (4/1)
 * **Discussion: protocol and control**
-  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
-  * Alexander Galloway, [Protocol](http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf) - Introduction pg3-27 (Xiaolong Mou)
-  * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 * **[Workshop 1](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-1-accessing-apis): accesssing APIs**
 
 ### Week 3 (4/8)
@@ -80,12 +78,6 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 * **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-2-response-and-freedom)**
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
 * **Discussion: open web / access, tactical media, exploits, hacking**
-  * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
-  * Manifestos
-    * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
-    * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
-    * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
-  * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway
 * **[Workshop 2: web scraping](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-2-web-scraping)**
   
 ### Week 5 (4/22)
@@ -99,10 +91,6 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 ### Week 6 (4/29)
 * **Guest [Workshop 3](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-3-create-your-own-api): create your own API**
 * **Discussion: The Internet of Things and People** 
-  * [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle
-  * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski - also check out ["below the API"](http://www.forbes.com/sites/anthonykosner/2015/02/04/google-cabs-and-uber-bots-will-challenge-jobs-below-the-api/)
-  * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling
-
 
 ### Week 7 (5/6)
 * **Review [Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56)**
