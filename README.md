@@ -51,7 +51,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 ## Part 1: Protocol and control
 
-### Week 1 (1/28, 3/25)
+### Week 1 (3/25)
 * Intro and syllabus
 * History of APIs
   * [IBM System/360](http://www.beagle-ears.com/lars/engineer/comphist/c20-1684/fig001.jpg) (1964) 
@@ -109,11 +109,11 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
   * [Temboo](https://www.temboo.com/)
   * [Kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
 
-### Week 2 (2/4, 4/1)
+### Week 2 (4/1)
 * **Discussion: protocol and control**
-  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api) (Renata Kuba, Sung Hoon Kim)
+  * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf) - Introduction pg3-27 (Xiaolong Mou)
-  * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford (Tanya Campbell, Pat Shiu)
+  * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 * Technical workshop
   * Tools
     * [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands)
@@ -134,7 +134,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [servi general examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/05_servi_general_examples)
 
 
-### Week 3 (2/11, 4/8)
+### Week 3 (4/8)
 * **Guest lecture [Allison Burtch](http://www.allisonburtch.net/)** (4/8)
 * Survey
   * Tactical Inverventions
@@ -180,23 +180,22 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 ## Part 2: Response and freedom
 
-### Week 4 (2/18, 4/15)
+### Week 4 (4/15)
 * **Guest workshop [Sam Slover](http://samslover.com/)** - [demo code and notes](https://github.com/sslover/restful-api-node-express-mongodb-heroku-boilerplate)
   * Create your own API with node.js.
   * Model and collect data.
   * Create and serve-up API endpoints in a RESTful style (responding with JSON).
 * **Discussion: open web / access, tactical media, exploits, hacking**
-  * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience (Yurika Mulase, Zhen, Liu)
-  * Manifestos (Eamon O'Connor)
+  * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
+  * Manifestos
     * [UBERMORGEN.COM](http://www.ubermorgen.com/manifesto/)
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
     * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
-  * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway, Eugene Thacker (Teresa Lamb) - [presentation](https://docs.google.com/a/nyu.edu/presentation/d/1RjlqVcA9Nj992ECDyRm4KdAbLICP-CLjoitfrTK0Oh0/edit#slide=id.g6946c56d9_018)
+  * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway
 * **[Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225) (DUE 2/25)**
   
   
-### Week 5 (2/25, 4/22)
-* **Guest lecture [Kawandeep Virdee](http://blog.whichlight.com/)** (2/25)
+### Week 5 (4/22)
 * Review [Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225)
 * Survey
   * ["This one weird trick" talk](https://vimeo.com/110755279), Dan Williams  
@@ -230,17 +229,17 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 ## Part 3: Networks
 
-### Week 6 (3/4, 4/29)
+### Week 6 (4/29)
 * Technical workshop
   * Hardware / device APIs
   * Arduino Yun
 * **Discussion: The Internet of Things and People** 
-  * [A Design Methodology for Deconstructing Networks](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp33to38-BruckerCohen-ADesignMethodologyForDeconstructingNetworks.pdf), Jonah Brucker-Cohen and [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle (Paul Hiam, Lirong Liu)
-  * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski (Luke Kao, Xi Liu,Diana Freed) - also check out ["below the API"](http://www.forbes.com/sites/anthonykosner/2015/02/04/google-cabs-and-uber-bots-will-challenge-jobs-below-the-api/)
-  * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling (Soni Hahn, Chang Liu)
+  * [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle
+  * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski - also check out ["below the API"](http://www.forbes.com/sites/anthonykosner/2015/02/04/google-cabs-and-uber-bots-will-challenge-jobs-below-the-api/)
+  * [The Epic Struggle for the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things), Bruce Sterling
 
 
-### Week 7 (3/11, 5/6)
+### Week 7 (5/6)
 * Review [Final Projects](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311)
 * Wrap-up
 
