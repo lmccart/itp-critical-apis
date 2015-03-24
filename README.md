@@ -9,7 +9,8 @@ Critical APIs
 * [Resident office hours signup](https://itp.nyu.edu/inwiki/)
 
 
-# Pages
+** Links** 
+
 * [Discussion page](https://github.com/lmccart/itp-critical-apis/wiki/Discussion)
 * [Survey page](https://github.com/lmccart/itp-critical-apis/wiki/Survey)
 * [Workshop page](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops)
