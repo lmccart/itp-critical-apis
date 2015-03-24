@@ -74,7 +74,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 * [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-2-response-and-freedom): response and freedom
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
 * [Discussion](https://github.com/lmccart/itp-critical-apis/wiki/Discussion#part-2-response-and-freedom): open web / access, tactical media, exploits, hacking
-* [Workshop 2: web scraping](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-2-web-scraping)
+* [Workshop 2]: web scraping(https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-2-web-scraping)
   
 ### Week 5 (4/22)
 * Review [Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)
