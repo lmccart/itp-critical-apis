@@ -54,46 +54,42 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 ### Week 1 (3/25)
 * Intro and syllabus
-* [History of APIs](https://github.com/lmccart/itp-critical-apis/wiki/Survey#history-of-apis)
-* Politics of APIs
-  * ["Politics of APIs" diagram](https://d262ilb51hltx0.cloudfront.net/max/1448/1*B-pvEvv5tTMZdu7Kfk7Efg.png), Kin Lane
-  * [Medium: Politics of APIs](https://medium.com/politics-of-apis/the-politics-of-apis-3a29b8dfee64), Tyler Singletary
-  * [5 Things to Understand About Open APIs](http://www.mashery.com/blog/5-things-understand-about-successful-open-apis), Chuck Freedman
-* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-1-protocol-and-control)**
-* **[Workshop 0](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-0-api-shortcuts-and-alternatives): API shortcuts and alternatives**
+* [History](https://github.com/lmccart/itp-critical-apis/wiki/Survey#history-of-apis) and [politics](https://github.com/lmccart/itp-critical-apis/wiki/Survey#politics-of-apis) of APIs
+* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-1-protocol-and-control)
+* [Workshop 0](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-0-api-shortcuts-and-alternatives): API shortcuts and alternatives
 * **[Project 1](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48) (DUE 4/8)** 
 
 ### Week 2 (4/1)
-* **Discussion: protocol and control**
-* **[Workshop 1](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-1-accessing-apis): accesssing APIs**
+* [Discussion](https://github.com/lmccart/itp-critical-apis/wiki/Discussion#part-1-protocol-and-control): protocol and control
+* [Workshop 1](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-1-accessing-apis): accesssing APIs
 
 ### Week 3 (4/8)
-* **Guest lecture [Allison Burtch](http://www.allisonburtch.net/)** (4/8)
-* **Review [Project 1](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48)**
+* Guest lecture [Allison Burtch](http://www.allisonburtch.net/)
+* Review [Project 1](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48)
 * **[Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422) (DUE 4/22)**
 
 ## Part 2: Response and freedom
 
 ### Week 4 (4/15)
-* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-2-response-and-freedom)**
+* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-2-response-and-freedom)
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
-* **Discussion: open web / access, tactical media, exploits, hacking**
-* **[Workshop 2: web scraping](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-2-web-scraping)**
+* [Discussion](https://github.com/lmccart/itp-critical-apis/wiki/Discussion#part-2-response-and-freedom): open web / access, tactical media, exploits, hacking
+* [Workshop 2: web scraping](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-2-web-scraping)
   
 ### Week 5 (4/22)
-* **Review [Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)**
-* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-3-networks)**
+* Review [Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)
+* [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-3-networks)
 * **[Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56) (DUE 5/6)**
 
 
 ## Part 3: Networks
 
 ### Week 6 (4/29)
-* **Guest [Workshop 3](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-3-create-your-own-api): create your own API**
-* **Discussion: The Internet of Things and People** 
+* Guest [Workshop 3](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-3-create-your-own-api): create your own API
+* [Discussion: The Internet of Things and People](https://github.com/lmccart/itp-critical-apis/wiki/Discussion#part-3-networks)
 
 ### Week 7 (5/6)
-* **Review [Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56)**
+* Review [Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56)
 * Wrap-up
 
 
