@@ -8,6 +8,12 @@ Critical APIs
 * [Office hours signup](http://bit.ly/1hECzFK), Room 455
 * [Resident office hours signup](https://itp.nyu.edu/inwiki/)
 
+
+# Pages
+* [Discussion page](https://github.com/lmccart/itp-critical-apis/wiki/Discussion)
+* [Survey page](https://github.com/lmccart/itp-critical-apis/wiki/Survey)
+* [Workshop page](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops)
+
 # Overview
 An API allows a connection between two different applications. It can pass data and information, or provide access to modify or control the application itself. Though APIs are often thought of in terms of their functionality, they are never neutral. Expectations about why and how it might be used and who should be able to use it are embedded in the infrastructure of the system. This course will look critically at the structures of power and control inherent in APIs, and explore possibilities to subvert ideologies imposed by the technology. We will build applications that access various APIs, as well as design APIs of our own. Students will use Processing, as well as JavaScript for both server-side and client-side programming, covering tools such as JSON, OAuth, AJAX, node.js, p5.js, jQuery.
 
