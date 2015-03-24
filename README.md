@@ -53,36 +53,13 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 ### Week 1 (3/25)
 * Intro and syllabus
-* History of APIs
-  * [IBM System/360](http://www.beagle-ears.com/lars/engineer/comphist/c20-1684/fig001.jpg) (1964) 
-  * [salesforce.com](https://raw.githubusercontent.com/lmccart/itp-critical-apis/master/images/salesforce-2000.png) (2000) 
-  * [ebay](http://kinlane-productions.s3.amazonaws.com/ebay/ebay-developer-program-history.png) (2000)
-  * [AWS](http://kinlane-productions.s3.amazonaws.com/amazon/Amazon-Web-Services-News-Release.png) (2002)
-  * del.icio.us (2003)
-  * flickr (2004)
-  * [Facebook API](https://www.facebook.com/notes/facebook/facebook-development-platform-launches/2207512130) (2006)
-  * [Twitter API](https://blog.twitter.com/2006/introducing-twitter-api) (2006) 
-  * [Google Maps API](http://googleblog.blogspot.com/2005/06/world-is-your-javascript-enabled_29.html) (2006)
-  * Amazon [S3](http://aws.amazon.com/about-aws/whats-new/2006/03/13/announcing-amazon-s3---simple-storage-service/) and [EC2](http://aws.amazon.com/about-aws/whats-new/2006/08/24/announcing-amazon-elastic-compute-cloud-amazon-ec2---beta/) (2006)
-  * [programmableweb.com](http://www.programmableweb.com/news/web-platform/2005/08/20) (2005)
-  * [mashery.com](http://techcrunch.com/2006/11/06/mashery-api-management-service-is-open-for-business/) (2006)
-  * [twilio](http://dovetailsoftware.com/wp-content/uploads/MTE5Ni1pbWFnZV8yMjgwQjE1Ni5wbmc=.png) (2007)
-  * [foursquare](http://venturebeat.com/2009/03/10/dodgeball-founder-pegs-google-in-the-face-with-foursquare/) (2009)
-  * [Oracle vs Google](https://www.eff.org/deeplinks/2014/05/dangerous-ruling-oracle-v-google-federal-circuit-reverses-sensible-lower-court) (2014)
-  * Instagram [unofficial API](http://www.programmableweb.com/news/full-featured-unpublished-instagram-api/2010/12/15) (2010) and [official API](http://blog.instagram.com/post/8756150468/a-real-time-api-for-next-generation-apps) (2011)
+* [History of APIs](https://github.com/lmccart/itp-critical-apis/wiki/Survey#history-of-apis)
 * Politics of APIs
   * ["Politics of APIs" diagram](https://d262ilb51hltx0.cloudfront.net/max/1448/1*B-pvEvv5tTMZdu7Kfk7Efg.png), Kin Lane
   * [Medium: Politics of APIs](https://medium.com/politics-of-apis/the-politics-of-apis-3a29b8dfee64), Tyler Singletary
   * [5 Things to Understand About Open APIs](http://www.mashery.com/blog/5-things-understand-about-successful-open-apis), Chuck Freedman
-* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/References#part-1-protocol-and-control)**
-* **Technical workshop: API shortcuts and alternatives**
-  * [IFTTT](https://ifttt.com/)
-  * [Zapier](https://zapier.com)
-  * [import.io](https://import.io/)
-  * [itDuzzit](http://cloud.itduzzit.com/)
-  * [Yahoo pipes](https://pipes.yahoo.com/pipes/)
-  * [Temboo](https://www.temboo.com/)
-  * [Kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
+* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-1-protocol-and-control)**
+* **[Workshop 0](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-0-api-shortcuts-and-alternatives): API shortcuts and alternatives**
 * **[Project 1](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48) (DUE 4/8)** 
 
 ### Week 2 (4/1)
@@ -90,25 +67,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf) - Introduction pg3-27 (Xiaolong Mou)
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
-* **Technical workshop: accesssing APIs**
-  * Tools
-    * [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands)
-    * [Chrome extension for viewing JSON](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
-    * [p5.js](http://p5js.org)
-    * [jQuery](http://jquery.com/download/)
-    * [node](http://nodejs.org)
-    * [servi](https://github.com/antiboredom/servi.js) - [documentation](https://github.com/antiboredom/servi.js/wiki) 
-  * Tutorials
-    * [Running a local http server](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Local-Server-Tutorial)
-    * [Loading data client-side with AJAX](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
-    * [Instagram API how-to](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
-  * Examples
-    * [p5.js AJAX examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/01_ajax_p5_examples)
-    * [jQuery AJAX examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/02_ajax_jquery_examples)
-    * [Instagram API example](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/03_ajax_instagram_example)
-    * [servi API examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/04_servi_api_examples)
-    * [servi general examples](https://github.com/lmccart/itp-critical-apis/tree/master/Using_APIs/05_servi_general_examples)
-
+* **[Workshop 1](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-1-accessing-apis): accesssing APIs**
 
 ### Week 3 (4/8)
 * **Guest lecture [Allison Burtch](http://www.allisonburtch.net/)** (4/8)
@@ -118,7 +77,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 ## Part 2: Response and freedom
 
 ### Week 4 (4/15)
-* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/References#part-2-response-and-freedom)**
+* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-2-response-and-freedom)**
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
 * **Discussion: open web / access, tactical media, exploits, hacking**
   * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
@@ -127,21 +86,18 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
     * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
   * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway
-* **Technical workshop: scraping**
+* **[Workshop 2: web scraping](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-2-web-scraping)**
   
 ### Week 5 (4/22)
 * **Review [Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)**
-* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/References#part-3-networks)**
+* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-3-networks)**
 * **[Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56) (DUE 5/6)**
 
 
 ## Part 3: Networks
 
 ### Week 6 (4/29)
-* **Guest technical workshop [Sam Slover](http://samslover.com/)** - [demo code and notes](https://github.com/sslover/restful-api-node-express-mongodb-heroku-boilerplate)
-  * Create your own API with node.js.
-  * Model and collect data.
-  * Create and serve-up API endpoints in a RESTful style (responding with JSON).
+* **Guest [Workshop 3](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-3-create-your-own-api): create your own API**
 * **Discussion: The Internet of Things and People** 
   * [Impersonating the Machine](http://booktwo.org/notebook/impersonating-the-machine/), James Bridle
   * [The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html), Mike Bulajewski - also check out ["below the API"](http://www.forbes.com/sites/anthonykosner/2015/02/04/google-cabs-and-uber-bots-will-challenge-jobs-below-the-api/)
