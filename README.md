@@ -74,32 +74,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
   * ["Politics of APIs" diagram](https://d262ilb51hltx0.cloudfront.net/max/1448/1*B-pvEvv5tTMZdu7Kfk7Efg.png), Kin Lane
   * [Medium: Politics of APIs](https://medium.com/politics-of-apis/the-politics-of-apis-3a29b8dfee64), Tyler Singletary
   * [5 Things to Understand About Open APIs](http://www.mashery.com/blog/5-things-understand-about-successful-open-apis), Chuck Freedman
-* Survey
-  * [Life Sharing](http://0100101110101101.org/life-sharing/), Eva and Franco Mattes
-  * Revealing metadata
-    * [Floodwatch](http://floodwatch.o-c-r.org/), Ashkan Soltani, The Office for Creative Research - [You are not your browser history](https://medium.com/backchannel/you-are-not-your-browser-history-cdff623a3b24)
-    * [Internet Illuminator](http://blog.allisonburtch.net/post/86472605463/internet-illuminator), Allison Burtch
-    * [Trackography](https://trackography.org/)
-    * [commodify.us](https://commodify.us/)
-    * [RealCosts](http://therealcosts.com/)
-    * [Harlo Holmes on Activism and Metadata](https://vimeo.com/114175594), Deep Lab
-  * Resistance
-    * [GWEI](http://www.paolocirio.net/work/gwei/), Paolo Cirio, Alessandro Ludovico, Ubermorgen
-    * [web2.0 suicide machine](http://suicidemachine.org/), moddr_, Fresco Gamba
-    * [Punk Rock 101](http://www.coryarcangel.com/things-i-made/punkrock101), Cory Arcangel
-  * Automation
-    * [Random Darknet Shopper](http://hyperallergic.com/174827/art-bot-buys-drugs-tests-the-bounds-of-consciousness/), !Mediengruppe Bitnik
-    * [Amazon Random Shopper](http://boingboing.net/2012/12/26/if-you-give-a-bot-a-gift-card.html), Darius     Kazemi
-  * Visualization
-    * [Prison Map](http://prisonmap.com/about), Josh Begley
-    * [Directions to Last Visitor](http://directionstolastvisitor.com/)
-    * [Hit Counter](https://www.youtube.com/watch?v=_pxrrTNDV4g), Jonah Brucker-Cohen
-    * [America's Got No Talent](http://www.americasgot-notalent.com/), Katherine Moriwaki, Jonah Brucker-Cohen
-    * [Drones](http://drones.pitchinteractive.com/), Pitch Interactive
-    * [The Refugee Project](http://www.therefugeeproject.org/), Hyperakt
-    * [Critical Network Mapping](http://burak-arikan.com/works), Burak Arikan - [Eyeo](https://vimeo.com/117422191)
-    * [Selfie City](http://selfiecity.net/), Lev Manovich, Moritz Stefaner, et al
-    * [Data](http://www.stfj.net/data2010/works.html), Zach Gage
+* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/References#part-1-protocol-and-control)**
 * **Technical workshop: API shortcuts and alternatives**
   * [IFTTT](https://ifttt.com/)
   * [Zapier](https://zapier.com)
@@ -143,46 +118,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 ## Part 2: Response and freedom
 
 ### Week 4 (4/15)
-* **Survey**
-  * Tactical Inverventions
-    * Paolo Cirio
-      * [Loophole for All](http://www.paolocirio.net/work/loophole-for-all/)
-      * [Persecuting US](http://www.paolocirio.net/work/persecuting-us/)
-      * [Daily Paywall](http://paolocirio.net/work/daily-paywall/)
-      * [Face2Facebook](http://www.face-to-facebook.net/hacking-monopolism-trilogy.php), Paolo Cirio, Alessandro Ludovico  
-    * UBERMORGEN.COM
-      * [Amazon Noir](http://www.paolocirio.net/work/amazon-noir/), Paolo Cirio, UBERMORGEN.COM, Alessandro Ludovico
-      * [Vote Auction](http://www.vote-auction.net/)
-      * [Sound of eBay](http://www.sound-of-ebay.com/100.php)
-    * [Female Extension](http://alltheartever.tumblr.com/post/103318023949/female-extension-cornelia-sollfrank-1997-in-1997), Cornelia Sollfrank
-    * [Julian Oliver](http://julianoliver.com/output/)
-    * [Biononymous](http://biononymous.com/)
-    * [FAT Lab](http://fffff.at/) - [video](https://www.youtube.com/watch?v=-b0rlJvO1BQ)
-      * [Ideas Worth Spreading](http://fffff.at/ideas-worth-spreading/)
-      * [Shaved Bieber](http://fffff.at/shaved-bieber/)
-    * [ScareMail](http://bengrosser.com/projects/scaremail/), Ben Grosser
-    * [Add-Art](http://visitsteve.com/made/add-art-art-replaces-ads/), Steve Lambert
-  * Create your own API
-    * [Free Universal Construction Kit](http://fffff.at/free-universal-construction-kit), Golan Levin
-    * [Dronestre.am](http://dronestre.am/), Josh Begley - [@dronestream](https://twitter.com/dronestream)
-    * [Dronestagram](http://shorttermmemoryloss.com/portfolio/project/dronestagram/), James Bridle
-    * [Tracking Transience](http://trackingtransience.net/), Hasan Elahi - [NYTimes](http://www.nytimes.com/2011/10/30/opinion/sunday/giving-the-fbi-what-it-wants.html?pagewanted=all&_r=3&)
-    * [Botanicalls](http://www.botanicalls.com/kits/), Kate Hartman
-    * [Hip Hop Almanac](http://staplecrops.com/), Tahir Hemphill
-    * [Big Data Pawn Shop](http://www.wired.com/2014/12/looking-hoodie-nsa-documents-store/), Adam Harvey, Sam Lavigne, Surya Mattu
-    * Bureau of Inverse Technology
-      * [Suicide Box](http://www.bureauit.org/decade/projects.html#suicidebox)
-      * [Bit Cab](http://www.bureauit.org/decade/projects.html#bitcab)
-      * [BangBang](http://www.bureauit.org/decade/projects.html#bangbang)
-  * Transform
-    * [A Thousand Exhausted Things](http://blog.blprnt.com/blog/blprnt/on-data-and-performance), Elevator Repair Survey, The OCR
-    * [Data-Driven Music for the Disharmony of New York’s Income Inequality](http://hyperallergic.com/180725/data-driven-music-to-for-the-disharmony-of-new-yorks-income-inequality/), Brian Foo
-    * [You'll Just Have To Take My Word For It](http://brianhouse.net/works/youll_just_have_to_take_my_word_for_it/), Brian House
-    * [Joyride](http://brianhouse.net/works/joyride/), Brian House and Sue Huang
-    * [Deaddrops](https://deaddrops.com/), Aram Bartholl
-    * [Yo warns of Israeli missile strikes](http://www.wired.com/2014/07/an-actually-useful-version-of-yo-is-warning-israelis-of-rocket-strikes/)
-    * [Krzysztof Wodiczko](http://cavs.mit.edu/artist/id.417-418.html) - [War Veteran Projection](http://moreart.org/projects/krzysztof-wodiczko/)
-    * [China Channel](http://chinachannel.fffff.at/), FAT Lab
+* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/References#part-2-response-and-freedom)**
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
 * **Discussion: open web / access, tactical media, exploits, hacking**
   * [Critical Art Engineering](http://www.critical-art.net/books/ecd/ecd2.pdf), Electronic Civil Disobedience
@@ -195,32 +131,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
   
 ### Week 5 (4/22)
 * **Review [Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)**
-* **Survey**
-  * ["This one weird trick" talk](https://vimeo.com/110755279), Dan Williams  
-  * Crowdsourcing
-    * [A Brief Guide To Crowdsourced Art](http://thecreatorsproject.vice.com/blog/creativity-bytes-a-brief-guide-to-crowdsourced-art), Creators Project
-    * [Laborers of Love](http://jeffish.com/projects/laborers_of_love.html), Jeff Crouse
-    * [Crowd Workers of the World Unite](http://www.crowdworkersoftheworldunite.com/), Jeff Crouse
-    * [Social Turkers](http://socialturkers.com/), Lauren McCarthy
-    * [Sheep Market](http://www.aaronkoblin.com/work/thesheepmarket/), Aaron Koblin
-    * [Mechanical Olympics](http://rhizome.org/editorial/2008/aug/5/lets-get-physical/), Xtine Hanson
-    * [Befnoed](http://0100101110101101.org/befnoed/), Eva and Franco Mattes
-    * [Turkopticon](https://turkopticon.ucsd.edu/)
-  * Connecting
-    * [Nexus Architecture](http://www.studio-orta.com/en/artworks/serie/10/Nexus-Architecture), Lucy and Jorge Orta
-    * [paraSITE](http://michaelrakowitz.com/projects/parasite/), Michael Rakowitz
-    * [Block Together](https://blocktogether.org/)
-    * [Twitch Plays Pokemon](http://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
-    * [A Tool to Deceive and Slaughter](http://caleblarsen.com/a-tool-to-deceive-and-slaughter/), Caleb Larsen
-  * Disconnecting
-    * [Ssocial Roulette](http://socialroulette.net)
-    * [Web 2.0 Suicide Machine](http://en.wikipedia.org/wiki/Web_2.0_Suicide_Machine)
-    * [Self Control](http://visitsteve.com/made/selfcontrol/), Steve Lambert
-  * Location
-    * [Hell is Other People](http://hell.j38.net/), Scott Garner
-    * [Avoid Humans](http://avoidhumans.com/)
-    * [Girls Around Me](http://girlsaround.me/)
-    * [Please Rob Me](http://pleaserobme.com/)
+* **[Survey](https://github.com/lmccart/itp-critical-apis/wiki/References#part-3-networks)**
 * **[Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56) (DUE 5/6)**
 
 
