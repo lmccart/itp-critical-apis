@@ -100,7 +100,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Critical Network Mapping](http://burak-arikan.com/works), Burak Arikan - [Eyeo](https://vimeo.com/117422191)
     * [Selfie City](http://selfiecity.net/), Lev Manovich, Moritz Stefaner, et al
     * [Data](http://www.stfj.net/data2010/works.html), Zach Gage
-* Technical workshop: API shortcuts and alternatives
+* **Technical workshop: API shortcuts and alternatives**
   * [IFTTT](https://ifttt.com/)
   * [Zapier](https://zapier.com)
   * [import.io](https://import.io/)
@@ -108,14 +108,14 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
   * [Yahoo pipes](https://pipes.yahoo.com/pipes/)
   * [Temboo](https://www.temboo.com/)
   * [Kimono](https://www.kimonolabs.com/) - turn websites into structured APIs
-* [Project 1 DUE 4/8](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48)
+* **[Project 1](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48) (DUE 4/8)** 
 
 ### Week 2 (4/1)
 * **Discussion: protocol and control**
   * Tania Bucher, [Objects of Intense Feeling: The Case of the Twitter API](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)
   * Alexander Galloway, [Protocol](http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf) - Introduction pg3-27 (Xiaolong Mou)
   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
-* Technical workshop
+* **Technical workshop: accesssing APIs**
   * Tools
     * [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands)
     * [Chrome extension for viewing JSON](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
@@ -137,13 +137,13 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 ### Week 3 (4/8)
 * **Guest lecture [Allison Burtch](http://www.allisonburtch.net/)** (4/8)
-* [Review Project 1](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48)
- 
+* **Review [Project 1](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-1-due-48)**
+* **[Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422) (DUE 4/22)**
 
 ## Part 2: Response and freedom
 
 ### Week 4 (4/15)
-* Survey
+* **Survey**
   * Tactical Inverventions
     * Paolo Cirio
       * [Loophole for All](http://www.paolocirio.net/work/loophole-for-all/)
@@ -191,11 +191,11 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Critical Engineering](http://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
     * [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html), McKenzie Wark
   * [The ABC of Tactical Media](http://subsol.c3.hu/subsol_2/contributors2/garcia-lovinktext.html), David Garcia, Geert Lovink and [The Exploit: A Theory of Networks](http://lab404.com/379/galloway_thacker_exploit.pdf), Alexander Galloway
-* [Project 2 DUE 4/22](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)  
+* **Technical workshop: scraping**
   
 ### Week 5 (4/22)
-* Review [Final Project proposals](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-proposal-due-225)
-* Survey
+* **Review [Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)**
+* **Survey**
   * ["This one weird trick" talk](https://vimeo.com/110755279), Dan Williams  
   * Crowdsourcing
     * [A Brief Guide To Crowdsourced Art](http://thecreatorsproject.vice.com/blog/creativity-bytes-a-brief-guide-to-crowdsourced-art), Creators Project
@@ -221,8 +221,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
     * [Avoid Humans](http://avoidhumans.com/)
     * [Girls Around Me](http://girlsaround.me/)
     * [Please Rob Me](http://pleaserobme.com/)
-* [Questions for next week's demo](https://github.com/lmccart/itp-critical-apis/wiki/Topics-for-week-6-demo)
-* **[Final Project](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311) (DUE 3/11)**
+* **[Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56) (DUE 5/6)**
 
 
 ## Part 3: Networks
@@ -239,7 +238,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 
 ### Week 7 (5/6)
-* Review [Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Assignments#final-project-due-311)
+* **Review [Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56)**
 * Wrap-up
 
 
