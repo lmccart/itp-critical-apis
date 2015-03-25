@@ -1,4 +1,4 @@
-![](http://www.yproductions.com/imagebank/formula_for_computer_art%20copy.jpg)
+![](http://golancourses.net/2010spring/wp-content/uploads/2010/01/kwillis-art.gif)
 
 Critical APIs
 =================
