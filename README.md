@@ -1,3 +1,5 @@
+![](http://www.yproductions.com/imagebank/formula_for_computer_art%20copy.jpg)
+
 Critical APIs
 =================
 
