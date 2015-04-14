@@ -4,7 +4,7 @@
 // https://github.com/request/request
 // npm install request
 
-// example page: http://itp.nyu.edu/sigs/program/?sortby=tier&semesteryear=Spring%202015
+// example page: http://newyork.craigslist.org/search/aap
 
 var cheerio = require('cheerio');
 var request = require('request');
@@ -20,5 +20,6 @@ request(url, function(err, resp, body) {
     var price = $(this).find('.price').text();
     var rooms = $(this).find('.housing').text();
     var pnr = $(this).find('.pnr').text();
+    console.log(title, price, rooms, pnr);
   });
 });

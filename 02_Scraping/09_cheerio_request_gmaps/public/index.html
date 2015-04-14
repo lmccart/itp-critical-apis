@@ -5,14 +5,17 @@
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.css' rel='stylesheet' />
-    <style>#map { height: 500px; }</style>
+    <style>
+      body { margin:0; padding:0; }
+      #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
   </head>
   <body>
     <div id="map"></div>
     <script>
 
     // Provide your access token
-    L.mapbox.accessToken = 'pk.eyJ1IjoibG1jY2FydCIsImEiOiJXZERfU1BjIn0.5TMit83Bj29htx1aZyk30g';
+    L.mapbox.accessToken = 'YOUR_TOKEN_HERE';
     // Create a map in the div #map
     var map = L.mapbox.map('map', 'examples.map-zr0njcqy').setView([40.7127, -74.0059], 13);
 
@@ -20,7 +23,11 @@
       console.log(data);
       for (var i=0; i<data.length; i++) {
         if (data[i].lat) {
-          var marker = L.marker([data[i].lat, data[i].lon]).addTo(map);
+          var options = {
+            title: data[i].title+' $'+data[i].price,
+            opacity: data[i].price/5000
+          }
+          var marker = L.marker([data[i].lat, data[i].lon], options).addTo(map);
         }
       }
     });
