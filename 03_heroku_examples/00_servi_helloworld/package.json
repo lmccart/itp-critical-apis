@@ -1,0 +1,7 @@
+{
+  "name": "servi-hello-world",
+  "version": "0.0.1",
+  "dependencies": {
+    "servi": "0.0.8"
+  }
+}
