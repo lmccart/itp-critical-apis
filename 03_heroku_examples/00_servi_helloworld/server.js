@@ -14,7 +14,7 @@ route('/', hello);
 
 
 // route handler methods
-function hellow(request){
+function hello(request){
   request.respond('hello world');
 }
 
