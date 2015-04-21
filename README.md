@@ -90,6 +90,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 ### Week 5 (4/22)
 * Review [Project 2](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-2-due-422)
 * [Survey](https://github.com/lmccart/itp-critical-apis/wiki/Survey#part-3-networks): networks
+* [Workshop 3](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-3-intro-to-heroku-and-express): intro to Heroku and Express
 * **[Project 3](https://github.com/lmccart/itp-critical-apis/wiki/Projects:-Section-2#project-3-due-56) (DUE 5/6)**
 
 
