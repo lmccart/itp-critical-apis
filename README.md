@@ -95,7 +95,7 @@ See the [projects page](https://github.com/lmccart/itp-critical-apis/wiki/Projec
 
 ## Part 3: Networks
 
-### Week 6 (4/29)
+### Week 6 (Friday 5/1 3:20-5:50PM __NOTE DATE AND TIME CHANGE__)
 * Guest [Workshop 3](https://github.com/lmccart/itp-critical-apis/wiki/Technical-workshops#workshop-3-create-your-own-api): create your own API
 * [Discussion](https://github.com/lmccart/itp-critical-apis/wiki/Discussion#part-3-networks): The Internet of Things and People
 
