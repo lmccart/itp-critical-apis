@@ -1,11 +1,11 @@
 {
-  "name": "servi-hello-world",
+  "name": "express-hello-world",
   "version": "0.0.1",
   "engines": {
     "node": "0.8.x",
     "npm": "2.x"
   },
   "dependencies": {
-    "servi": "0.0.8"
+    "express": "^4.12.3"
   }
 }

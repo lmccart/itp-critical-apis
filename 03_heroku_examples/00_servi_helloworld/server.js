@@ -1,13 +1,12 @@
-var express = require('express');
-var app = express();
+var servi = require('servi');
+var app = new servi(true);
 
-app.set('port', (process.env.PORT || 5000));
-app.use(express.static(__dirname + '/public'));
+port(8080);
 
-app.get('/', function(request, response) {
-  response.send('Hello World!');
-});
+route('/', requestHandler);
 
-app.listen(app.get('port'), function() {
-  console.log("Node app is running at localhost:" + app.get('port'));
-});
+function requestHandler(request) {
+    request.respond("Hello World");
+}
+
+start();
