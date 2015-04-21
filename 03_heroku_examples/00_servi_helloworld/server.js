@@ -1,21 +1,13 @@
-// https://github.com/antiboredom/servi.js
-// npm install servi
+var express = require('express');
+var app = express();
 
-// every servi application must have these 2 lines
-var servi = require("servi");
-var app = new servi(true);
+app.set('port', (process.env.PORT || 5000));
+app.use(express.static(__dirname + '/public'));
 
-// set the port (defaults to 3000 if you leave out this line)
-port(3001);
+app.get('/', function(request, response) {
+  response.send('Hello World!');
+});
 
-
-// set up the routes
-route('/', hello);
-
-
-// route handler methods
-function hello(request){
-  request.respond('hello world');
-}
-
-start();
+app.listen(app.get('port'), function() {
+  console.log("Node app is running at localhost:" + app.get('port'));
+});
