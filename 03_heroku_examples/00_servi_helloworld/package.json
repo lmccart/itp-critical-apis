@@ -5,6 +5,11 @@
     "node": "0.8.x",
     "npm": "2.x"
   },
+  "description": "A sample Node.js app using Express 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.12.3",
     "servi": "0.0.8"
