@@ -1,17 +1,11 @@
 {
-  "name": "api-node-express-mongodb-heroku-boilerplate",
+  "name": "stark-lake-8611",
   "version": "0.0.1",
-  "dependencies": {
-    "body-parser": "^1.10.1",
-    "express": "^4.10.7",
-    "geocoder": "^0.2.2",
-    "method-override": "^2.3.1",
-    "moment": "^2.9.0",
-    "mongoose": "^3.8.21",
-    "request": "^2.51.0"
-  },
   "engines": {
     "node": "0.8.x",
-    "npm": "2.2.x"
+    "npm": "2.x"
+  },
+  "dependencies": {
+    "servi": "0.0.8"
   }
 }
