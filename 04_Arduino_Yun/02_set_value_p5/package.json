@@ -1,0 +1,11 @@
+{
+  "name": "servi-hello-world",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "2.x"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
