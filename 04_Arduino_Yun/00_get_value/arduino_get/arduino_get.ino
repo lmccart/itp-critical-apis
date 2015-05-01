@@ -2,14 +2,8 @@
 #include <HttpClient.h>
 
 void setup() {
-  // Bridge takes about two seconds to start up
-  // it can be helpful to use the on-board LED
-  // as an indicator for when it has initialized
   pinMode(13, OUTPUT);
-  digitalWrite(13, LOW);
   Bridge.begin();
-  digitalWrite(13, HIGH);
-
   Serial.begin(9600);
 }
 
@@ -22,13 +16,19 @@ void loop() {
 
   // if there are incoming bytes available
   // from the server, read them and print them:
+  String resp = "";
   while (client.available()) {
     char c = client.read();
-    Serial.print(c);
+    resp += c;
   }
-  Serial.flush();
+  int time = resp.toInt();
+  Serial.println(time);
 
-  delay(5000);
+  digitalWrite(13, HIGH);
+  delay(time);
+  digitalWrite(13, LOW);
+  delay(time);
+  
 }
 
 

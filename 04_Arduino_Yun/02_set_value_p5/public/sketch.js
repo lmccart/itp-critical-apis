@@ -5,7 +5,7 @@ function setup() {
   noStroke();
   textAlign(CENTER);
   background(0);
-  setInterval(updateScene, 100);
+  setInterval(updateScene, 1000);
 }
 
 function draw() {
