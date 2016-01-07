@@ -1,5 +1,7 @@
 ![](http://golancourses.net/2010spring/wp-content/uploads/2010/01/kwillis-art.gif)
 
+[Jim Campbell’s Formula for Computer Art](http://www.jimcampbell.tv/portfolio/miscellaneous_references/)
+
 Critical APIs
 =================
 
